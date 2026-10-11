@@ -14,7 +14,8 @@ Supporting documents:
 | `fit-evaluation-2026-10-10.md` | Ranked fit of opportunities for Chris, which need a product, what was not scanned |
 | `brainstorm-ideas.md` | Record of the three product ideas, the process X-ray project and the pilot decision |
 | `business-ideas-list.md` | Nine online-business ideas with AI as a necessary part |
-| `koinno-open-challenges.md` | Bilingual (EN/DE) list of the 5 open KOINNOvationsplatz challenges, with a recommendation (look at the Beihilfe app, ignore the other four) |
+| `koinno-open-challenges.md` | Bilingual (EN/DE) list of the 5 open KOINNOvationsplatz challenges, English first, with a recommendation (look at the Beihilfe app, ignore the other four) |
+| `koinno-open-challenges-de-en.md` | Same document, German first |
 | `pilot-shortlist.md` | Six Augsburg-area firms as candidates for the first process-analysis pilot (not researched) |
 
 Outside this repository: `~/Projects/koinno-beihilfe/` (draft response to the LBV Beihilfe-App market sounding, due Mon 12 Oct),
