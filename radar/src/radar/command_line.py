@@ -10,8 +10,9 @@ from pathlib import Path
 
 from radar.desktop_notifier import notify_desktop
 from radar.http_transport import Transport, fetch_over_network
+from radar.jev_fit_scoring import judge_many, read_api_key
 from radar.opportunity_model import RunContext
-from radar.radar_run_orchestrator import DigestWriteError, Notifier, RadarPaths, run_radar
+from radar.radar_run_orchestrator import DigestWriteError, FitJudge, Notifier, RadarPaths, run_radar
 from radar.source_registry import GROUPS, sources_for_group
 
 EXIT_OK = 0
@@ -35,6 +36,19 @@ def _parse_arguments(argv: Sequence[str] | None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
+def _jev_env_file() -> Path:
+    configured = os.environ.get("RADAR_JEV_ENV_FILE")
+    return Path(configured) if configured else Path.home() / ".config" / "typesafe" / "jev.env"
+
+
+def _build_fit_judge(transport: Transport) -> FitJudge | None:
+    """Jev scoring is optional: without a key file the radar simply runs without it."""
+    api_key = read_api_key(_jev_env_file())
+    if api_key is None:
+        return None
+    return lambda opportunities: judge_many(opportunities, transport, api_key)
+
+
 def main(
     argv: Sequence[str] | None = None,
     transport: Transport = fetch_over_network,
@@ -48,7 +62,15 @@ def main(
         return EXIT_UNKNOWN_GROUP
     context = RunContext(correlation_id=uuid.uuid4().hex[:12], today=date.today())
     try:
-        report = run_radar(arguments.group, transport, context, RadarPaths(arguments.root), notifier, sources)
+        report = run_radar(
+            arguments.group,
+            transport,
+            context,
+            RadarPaths(arguments.root),
+            notifier,
+            sources,
+            _build_fit_judge(transport),
+        )
     except DigestWriteError as error:
         print(f"digest could not be written: {error}", file=sys.stderr)
         return EXIT_DIGEST_NOT_WRITTEN

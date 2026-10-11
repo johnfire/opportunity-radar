@@ -1,9 +1,10 @@
 """Turns a run's findings into the markdown digest Chris reads."""
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
+from radar.jev_fit_scoring import FitJudgment
 from radar.keyword_scoring import ScoredOpportunity
 from radar.opportunity_model import RunContext
 
@@ -37,6 +38,7 @@ class DigestInput:
     source_results: list[SourceResult]
     manual_checks: list[ManualCheck]
     warnings: list[str]
+    fits: dict[str, FitJudgment] = field(default_factory=dict)
 
 
 def parse_manual_check_lines(text: str) -> list[ManualCheck]:
@@ -77,7 +79,22 @@ def _escape_cell(text: str) -> str:
     return text.replace("|", "/").replace("\n", " ")
 
 
-def _row(item: ScoredOpportunity, today: date) -> str:
+CALL_KIND_LABELS = {
+    "funding_or_research_call": "Förderung / grant",
+    "service_tender": "Dienstleistung / service tender",
+    "goods_or_licence_purchase": "Ware, Lizenz / goods, licence",
+    "other": "Sonstiges / other",
+}
+
+
+def _fit_cell(item: ScoredOpportunity, fits: dict[str, FitJudgment]) -> str:
+    fit = fits.get(item.opportunity.key)
+    if fit is None:
+        return "–"
+    return f"{round(fit.could_solve * 100)} % · {CALL_KIND_LABELS.get(fit.call_kind, fit.call_kind)}"
+
+
+def _row(item: ScoredOpportunity, today: date, fits: dict[str, FitJudgment]) -> str:
     o = item.opportunity
     cells = [
         str(item.score),
@@ -86,25 +103,34 @@ def _row(item: ScoredOpportunity, today: date) -> str:
         _escape_cell(o.buyer),
         _deadline_cell(item, today),
         _escape_cell(o.amount_text or "–"),
-        o.url,
     ]
-    return "| " + " | ".join(cells) + " |"
+    if fits:
+        cells.append(_fit_cell(item, fits))
+    return "| " + " | ".join(cells + [o.url]) + " |"
 
 
-def _opportunity_table(items: list[ScoredOpportunity], today: date) -> list[str]:
-    header = [
-        "| Punkte / Score | Quelle / Source | Titel / Title | Auftraggeber / Buyer"
-        " | Frist / Deadline | Geld / Money | Link |",
-        "|---|---|---|---|---|---|---|",
+def _opportunity_table(
+    items: list[ScoredOpportunity], today: date, fits: dict[str, FitJudgment]
+) -> list[str]:
+    columns = [
+        "Punkte / Score",
+        "Quelle / Source",
+        "Titel / Title",
+        "Auftraggeber / Buyer",
+        "Frist / Deadline",
+        "Geld / Money",
     ]
-    return header + [_row(item, today) for item in sorted(items, key=_sort_key)]
+    if fits:
+        columns.append("Jev: lösbar? / solvable?")
+    header = ["| " + " | ".join(columns + ["Link"]) + " |", "|" + "---|" * (len(columns) + 1)]
+    return header + [_row(item, today, fits) for item in sorted(items, key=_sort_key)]
 
 
 def _new_section(digest: DigestInput) -> list[str]:
     lines = [f"## Neu seit dem letzten Lauf / New since the last run ({len(digest.new_items)})", ""]
     if not digest.new_items:
         return lines + ["Nichts Neues passt zu deinen Stichwörtern. / Nothing new matched your keywords.", ""]
-    return lines + _opportunity_table(digest.new_items, digest.context.today) + [""]
+    return lines + _opportunity_table(digest.new_items, digest.context.today, digest.fits) + [""]
 
 
 def _closing_section(digest: DigestInput) -> list[str]:
@@ -117,7 +143,7 @@ def _closing_section(digest: DigestInput) -> list[str]:
         ),
         "",
     ]
-    return lines + _opportunity_table(digest.closing_soon, digest.context.today) + [""]
+    return lines + _opportunity_table(digest.closing_soon, digest.context.today, digest.fits) + [""]
 
 
 def _counts_section(digest: DigestInput) -> list[str]:

@@ -3,6 +3,13 @@
 Checks public funding and tender sources on a schedule and writes a markdown digest of what is **new**,
 what is **closing within 14 days**, and which sources **failed**. It never submits anything.
 
+## Jev fit scoring (optional)
+If `~/.config/typesafe/jev.env` holds `TYPESAFE_API_KEY=...`, every shown item is sent (title, buyer, a short summary only) to
+TypeSafe's Jev, which returns the probability that a very small software and AI team could solve the need, and what kind of
+offer it is. The result is the "Jev: lösbar? / solvable?" column. It never hides or reorders items. Without the key file the
+radar runs exactly as before. Set `RADAR_JEV_ENV_FILE` to use another file. If Jev fails, the digest is still written
+with a warning. Each run logs a `jev_fit_scoring` entry in the audit log.
+
 ## Run it
 ```bash
 .venv/bin/radar run --group weekly          # KOINNO, EU portal, TED

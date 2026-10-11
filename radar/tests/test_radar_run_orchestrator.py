@@ -6,8 +6,9 @@ import pytest
 
 from radar.audit_log import ACTOR_NAME
 from radar.http_transport import SourceFetchError, Transport
+from radar.jev_fit_scoring import FitJudgment
 from radar.opportunity_model import Opportunity, RunContext
-from radar.radar_run_orchestrator import DigestWriteError, RadarPaths, RunReport, run_radar
+from radar.radar_run_orchestrator import DigestWriteError, FitJudge, RadarPaths, RunReport, run_radar
 from radar.source_registry import SourceDefinition
 
 TODAY = date(2026, 10, 11)
@@ -188,3 +189,60 @@ def test_unwritable_digest_directory_raises_and_leaves_state_untouched(paths: Ra
     with pytest.raises(DigestWriteError):
         run(paths, [a_source("ted", [an_opportunity("ted", "1", "Software A")])], NotifierSpy())
     assert not paths.state_file.exists()
+
+
+def a_fit_judge(probability: float) -> FitJudge:
+    def judge(opportunities: list[Opportunity]) -> tuple[dict[str, FitJudgment], list[str]]:
+        return {o.key: FitJudgment(probability, "service_tender") for o in opportunities}, []
+
+    return judge
+
+
+def test_a_jev_column_appears_when_a_fit_judge_is_given(paths: RadarPaths) -> None:
+    items = [an_opportunity("ted", "1", "Software für Verwaltung")]
+    report = run_radar(
+        "weekly",
+        never_called_transport,
+        CONTEXT,
+        paths,
+        NotifierSpy(),
+        [a_source("ted", items)],
+        a_fit_judge(0.81),
+    )
+    text = report.digest_path.read_text(encoding="utf-8")
+    assert "Jev: lösbar? / solvable?" in text and "81 % · Dienstleistung / service tender" in text
+
+
+def test_the_digest_is_still_written_when_jev_scoring_crashes(paths: RadarPaths) -> None:
+    def crashing_judge(_: list[Opportunity]) -> tuple[dict[str, FitJudgment], list[str]]:
+        raise RuntimeError("Jev exploded")
+
+    items = [an_opportunity("ted", "1", "Software für Verwaltung")]
+    report = run_radar(
+        "weekly",
+        never_called_transport,
+        CONTEXT,
+        paths,
+        NotifierSpy(),
+        [a_source("ted", items)],
+        crashing_judge,
+    )
+    text = report.digest_path.read_text(encoding="utf-8")
+    assert "Software für Verwaltung" in text and "Jev scoring was skipped" in text
+    assert "Jev:" not in text
+
+
+def test_the_jev_step_is_written_to_the_audit_log(paths: RadarPaths) -> None:
+    items = [an_opportunity("ted", "1", "Software für Verwaltung")]
+    run_radar(
+        "weekly",
+        never_called_transport,
+        CONTEXT,
+        paths,
+        NotifierSpy(),
+        [a_source("ted", items)],
+        a_fit_judge(0.5),
+    )
+    entries = [json.loads(line) for line in paths.audit_file.read_text(encoding="utf-8").splitlines()]
+    jev = [e for e in entries if e["action"] == "jev_fit_scoring"]
+    assert jev and jev[0]["actor"] == ACTOR_NAME and jev[0]["outcome"] == "ok"

@@ -32,7 +32,7 @@ The radar never works around CAPTCHAs, bot checks or logins.
 4. **Keywords**: review the first real digests (Thu 15 Oct twice-monthly, Sat 17 Oct weekly) and tune `radar/config/keywords.txt` (350 terms now; "digitalisierung" is noisy).
 
 ## D. Work to do
-1. **Jev scoring pass** for the radar (agreed 2026-10-11, "from now on"): after keyword scoring, ask Jev whether each shown item is a problem a solo AI and software consultant could solve, and add its probability to the digest. Advisory only. Item titles and buyers are public; send nothing else.
+1. ~~Jev scoring pass~~ — **built 2026-10-11.** Every shown item gets a "Jev: lösbar? / solvable?" column (probability that a very small software and AI team could solve it, plus grant / service tender / goods). Advisory only: it never hides an item or changes the order. Spot-check: it ranked a KI-tool market sounding highest and a licence purchase lowest, but its range is narrow (about 20 % to 70 %) and it is weak on vague titles. Use it for ordering, not as a hard cut-off. Only title, buyer and a short summary are sent. Next: judge quality after you have read a real digest; consider sorting by it.
 2. **Seen-state gap**: the radar marks unmatched items as seen, so a keyword added later never resurfaces old items. Option: keep unmatched items unseen so they are re-evaluated each run.
 3. **Pen-test benchmark protocol** — deferred by Chris on 2026-10-11 ("later"). Not written.
 4. **`opportunities.md`** — the "days left" column goes stale daily.

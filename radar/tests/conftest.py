@@ -36,3 +36,9 @@ class RecordingTransport:
 
 def as_transport(recording: RecordingTransport) -> Transport:
     return recording
+
+
+@pytest.fixture(autouse=True)
+def no_jev_key_file(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
+    """Tests never read the real key file or call Jev unless a test says so."""
+    monkeypatch.setenv("RADAR_JEV_ENV_FILE", str(tmp_path / "no-such-jev.env"))

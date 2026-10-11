@@ -16,6 +16,7 @@ from radar.digest_writer import (
     render_digest,
 )
 from radar.http_transport import Transport
+from radar.jev_fit_scoring import FitJudgment
 from radar.keyword_scoring import (
     KeywordWeight,
     ScoredOpportunity,
@@ -34,6 +35,7 @@ from radar.seen_state_store import (
 from radar.source_registry import SourceDefinition
 
 Notifier = Callable[[str, str], bool]
+FitJudge = Callable[[list[Opportunity]], tuple[dict[str, FitJudgment], list[str]]]
 
 
 class DigestWriteError(Exception):
@@ -192,18 +194,35 @@ def _gather_findings(
     return Findings(results, all_new, all_known, curated)
 
 
+def _judge_fit_safely(
+    fit_judge: FitJudge | None, shown: list[ScoredOpportunity], paths: RadarPaths, context: RunContext
+) -> tuple[dict[str, FitJudgment], list[str]]:
+    """Advisory step: whatever goes wrong here, the digest is still written."""
+    if fit_judge is None or not shown:
+        return {}, []
+    try:
+        fits, warnings = fit_judge([item.opportunity for item in shown])
+    except Exception as error:  # noqa: BLE001 - the digest must survive any failure of this optional step
+        _audit(paths, context, "jev_fit_scoring", "jev", "failed", repr(error))
+        return {}, [f"Jev scoring was skipped ({error!r}). / Jev-Bewertung übersprungen."]
+    _audit(paths, context, "jev_fit_scoring", "jev", "ok", f"{len(fits)} of {len(shown)} items judged")
+    return fits, warnings
+
+
 def _assemble_digest(
     group: str,
     context: RunContext,
     findings: Findings,
     paths: RadarPaths,
     warnings: list[str],
+    fit_judge: FitJudge | None = None,
 ) -> tuple[DigestInput, int]:
     keywords, exclusions, rule_warnings = _load_scoring_rules(paths)
     new_scored = [score_opportunity(o, keywords, exclusions) for o in findings.new]
     known_scored = [score_opportunity(o, keywords, exclusions) for o in findings.known]
     minimum_score = 1 if keywords else 0
     shown = [s for s in new_scored if _is_shown(s, minimum_score, findings.show_everything_from)]
+    fits, fit_warnings = _judge_fit_safely(fit_judge, shown, paths, context)
     digest = DigestInput(
         context=context,
         group=group,
@@ -213,7 +232,8 @@ def _assemble_digest(
         unmatched_count=sum(1 for s in new_scored if not s.is_excluded and s not in shown),
         source_results=findings.results,
         manual_checks=_load_manual_checks(paths),
-        warnings=warnings + rule_warnings,
+        warnings=warnings + rule_warnings + fit_warnings,
+        fits=fits,
     )
     return digest, len(shown)
 
@@ -225,11 +245,12 @@ def run_radar(
     paths: RadarPaths,
     notifier: Notifier,
     sources: list[SourceDefinition],
+    fit_judge: FitJudge | None = None,
 ) -> RunReport:
     state, state_warning = load_seen_state(paths.state_file)
     findings = _gather_findings(sources, transport, context, paths, state)
     digest, shown_count = _assemble_digest(
-        group, context, findings, paths, [state_warning] if state_warning else []
+        group, context, findings, paths, [state_warning] if state_warning else [], fit_judge
     )
     digest_path = _write_digest(render_digest(digest), paths, context, group)
     save_seen_state(update_seen_state(state, findings.new + findings.known, context.today), paths.state_file)
