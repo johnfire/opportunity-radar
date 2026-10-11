@@ -13,9 +13,9 @@ Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Be
 1. **SPRIND** (Abschnitt / section 1): fünf Challenges, bis zu **9,6 Mio. €** je Team; Fristen 16.10. bis 30.11.2026. / five challenges, up to **€9.6M** per team; deadlines 16 Oct to 30 Nov 2026.
 2. **KOINNOvationsplatz** (Abschnitt / section 2): fünf Markterkundungen öffentlicher Auftraggeber, **ohne Vergütung**; Fristen 11.10. bis 03.11.2026. / five market soundings by public buyers, **no payment**; deadlines 11 Oct to 3 Nov 2026.
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
-4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
+4. **Prototype Fund** (Jahrgang 03, Abschnitt / section 16): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; insgesamt bis **79.000 €** (einzeln) bzw. **158.000 €** (Team) in zwei Phasen. / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; up to **€79,000** (individual) or **€158,000** (team) over two phases.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern · 15. evergabe-online
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern · 15. evergabe-online · 16. Prototype Fund · 17. BMFTR
 
 ---
 
@@ -757,6 +757,94 @@ fünf Stichwortgruppen (Software, IT, Daten, KI, Studie, Forschung, Messsystem);
 
 **Note: you can submit your own idea.** No; you bid on published contracts. Bids are submitted through the platform after registration.
 
+
+---
+
+# 16. Prototype Fund (Jahrgang 03)
+
+Quelle / Source: https://www.prototypefund.de/bewerbung · https://www.prototypefund.de/bewerbung/details · https://www.prototypefund.de/faq (offizielle Seiten gelesen / official pages read, 11.10.2026)
+
+## Deutsch
+
+**Offen: Bewerbung vom 01.10. bis 30.11.2026, 15:00 Uhr MEZ.** Der Prototype Fund (ein Projekt der Open Knowledge Foundation Deutschland, finanziert vom BMFTR) fördert **freie und Open-Source-Software aus der und für die Gesellschaft**.
+
+- **Geld:** Reguläre Förderphase (sechs Monate, 01.06. bis 30.11.2027): bis zu **47.500 €** für Einzelpersonen oder **95.000 €** für Teams. Dazu eine viermonatige Anschlussförderung („Second Stage“, 01.12.2027 bis 31.03.2028): bis zu **31.667 €** (einzeln) bzw. **63.333 €** (Team).
+  Zusammen bis zu rund **79.000 €** (einzeln) bzw. **158.000 €** (Team). Dazu Coaching, Beratung und Vernetzung.
+- **Wer:** Einzelentwickler oder Teams mit höchstens vier Personen, volljährig. Einzelpersonen: Wohnsitz in Deutschland, **selbstständig oder freiberuflich**, Steuerzahlung in Deutschland. Teams: Sitz der GbR in Deutschland. **Unternehmen, Vereine und Organisationen sind nicht zugelassen.**
+  Der formale Antrag muss auf Deutsch eingereicht werden.
+- **Förderlinien:** **Innovation** (Datensicherheit und Software-Infrastruktur; bis zu 30 Projekte), **Up and Coming** (dasselbe, für unter 25-Jährige oder Studierende; bis zu 10 Projekte), **Resilienz** (freie Alternativen zu proprietärer, zentralisierter Software; bis zu 10 Projekte; Konzept für die Second Stage Pflicht).
+- **Ablauf:** Bewerbung bis 30.11.2026; Auswahl Dezember 2026 bis Februar/März 2027; danach ein formaler Antrag beim BMFTR (mit Unterstützung des Prototype Fund und des Projektträgers VDI/VDE-IT); **Förderstart 01.06.2027.**
+- **Regeln zu KI:** KI darf als Werkzeug dienen, etwa für die Bewerbung. „Wir haben kein Interesse an von Maschinen konzipierten Ideen.“ **„Vibe-Coding“ ist nicht förderfähig:** Geförderte müssen die nötigen Programmierkenntnisse besitzen, sind für die Ergebnisse voll
+  verantwortlich, und die Auslagerung der Umsetzung an externe Personen **oder an Maschinen** ist unzulässig; KI-erzeugter Code muss sorgfältig geprüft werden.
+- **Lizenz:** Die entstehende Software muss als freie/Open-Source-Software veröffentlicht werden.
+
+**Möglichkeit für einen genaueren Blick: ja, wenn Sie ein Open-Source-Projekt mit gesellschaftlichem Nutzen selbst entwickeln** (Förderstart erst Juni 2027).
+
+**Hinweis: Eigene Idee einreichen.** Ja, das ist der Kern des Programms: Sie reichen Ihre eigene Projektidee ein.
+
+## English
+
+**Open: applications from 1 Oct to 30 Nov 2026, 15:00 CET.** The Prototype Fund (a project of Open Knowledge Foundation Germany, funded by the BMFTR) funds **free and open-source software from and for society**.
+
+- **Money:** Regular funding phase (six months, 1 Jun to 30 Nov 2027): up to **€47,500** for individuals or **€95,000** for teams. Plus a four-month follow-on ("Second Stage", 1 Dec 2027 to 31 Mar 2028): up to **€31,667** (individual) or **€63,333** (team).
+  Together up to about **€79,000** (individual) or **€158,000** (team). Plus coaching, advice and networking.
+- **Who:** individual developers or teams of at most four, adults. Individuals: residence in Germany, **self-employed or freelance**, paying taxes in Germany. Teams: the partnership's seat in Germany. **Companies, associations and organisations are not eligible.**
+  The formal application must be submitted in German.
+- **Funding lines:** **Innovation** (data security and software infrastructure; up to 30 projects), **Up and Coming** (the same, for people under 25 or students; up to 10 projects), **Resilience** (free alternatives to proprietary, centralised software; up to 10 projects; a Second Stage concept is mandatory).
+- **Process:** apply by 30 Nov 2026; selection December 2026 to February/March 2027; then a formal application to the BMFTR (supported by the Prototype Fund and the project agency VDI/VDE-IT); **funding starts 1 Jun 2027.**
+- **Rules on AI:** AI may be used as a tool, for example for the application. "We have no interest in ideas designed by machines." **"Vibe coding" is not eligible:** grantees must have the programming skills needed, are fully responsible for the results, and
+  outsourcing the implementation to other people **or to machines** is not allowed; AI-generated code must be reviewed carefully.
+- **Licence:** the software created must be released as free/open-source software.
+
+**Possibility for a closer look: yes, if you develop an open-source project with public benefit yourself** (funding only starts in June 2027).
+
+**Note: you can submit your own idea.** Yes, that is the core of the programme: you submit your own project idea.
+
+---
+
+# 17. BMFTR (Bundesministerium für Forschung, Technologie und Raumfahrt): Bekanntmachungen
+
+Quelle / Source: https://www.bmftr.bund.de/SiteGlobals/Forms/Suche/Bekanntmachungsuche/Bekanntmachungsuche_Formular.html (offizielle Liste mit Einreichungsfrist / official list with submission deadline, 11.10.2026)
+Hinweis / Note: Geprüft wurden die 50 neuesten Einträge (seit 11.06.2026) von insgesamt 2.958. Die Richtlinien selbst (Beträge, Teilnahmebedingungen) wurden nicht gelesen; BMFTR-Förderung läuft oft über Verbünde mit Forschungspartnern. Projektträger Jülich (ptj.de) lieferte bei der Prüfung einen „504 Gateway Timeout“ und wurde nicht geprüft. / The 50 newest entries (since 11 Jun 2026) of 2,958 were checked. The guidelines themselves (amounts, conditions) were not read; BMFTR funding often runs through consortia with research partners. Projektträger Jülich (ptj.de) returned a "504 Gateway Timeout" and was not checked.
+
+## Deutsch
+
+**Offene Förderbekanntmachungen mit Einreichungsfrist nach dem 11.10.2026 (Auswahl zu KI, Daten, Cyber, IT):**
+
+1. **Leitprojekte für die Nutzung von KI in Wertschöpfungsketten** (industrielle, domänenspezifische KI zur Erschließung von Wertschöpfungspotenzialen; Hightech Agenda). Frist **01.11.2026.**
+2. **Strategische Projektförderung mit der Republik Korea (2+2-Projekte)**, KI und Digitalisierung, mit Beteiligung von Wirtschaft und Wissenschaft. Frist **04.11.2026.**
+3. **Pilotprojekte für sichere Verarbeitungsumgebungen („Secure Processing Environments“)** für Gesundheitsdaten. Frist **28.10.2026.**
+4. **„Souveräne Innovationsökosysteme für Cybersicherheit und Kommunikationstechnologien“.** Frist **15.10.2026.**
+5. **„Sicher in die digitale Zukunft – Cyberresiliente Gesellschaft durch sichere menschenzentrierte IT-Systeme“.** Frist **15.10.2026.**
+6. **„6G-Feldtests: Brücke zur Kommerzialisierung“.** Frist **15.10.2026.**
+7. **Förderaufruf „Digitalisierung und Innovation zur Erhaltung resilienter mariner Ökosysteme“** (Blaue Wirtschaft). Frist **16.11.2026.**
+8. **„BiodivDetect – Technologien und Methoden zur Erfassung und Bewertung unerfasster Biodiversität“** (Forschung und Entwicklung). Frist **26.11.2026.**
+9. **„Hightech Spaces“** (regionale Innovationsökosysteme, öffentlich-private Partnerschaften). Frist **19.02.2027.**
+Außerdem offen, aber ohne Bezug zu unserer Arbeit: MINT-Studienorientierung (24.11.), E-Fuels (30.11.), Stadtentwicklung „15-Minuten-Stadt“ (17.11.), Fusionstechnologie (15.10.) und BMFTR-Vergabebekanntmachungen (23.11. und 17.12.).
+
+**Möglichkeiten für einen genaueren Blick: 1 und 3** (Daten- und KI-Themen; 4 bis 6 enden in vier Tagen). Beträge und Bedingungen zuerst lesen.
+
+**Hinweis: Eigene Idee einreichen.** Nein; man bewirbt sich auf veröffentlichte Richtlinien, meist im Verbund.
+
+## English
+
+**Open funding announcements with a submission deadline after 11 Oct 2026 (selection on AI, data, cyber, IT):**
+
+1. **Lead projects for using AI in value chains** (industrial, domain-specific AI to unlock value-creation potential; Hightech Agenda). Deadline **1 Nov 2026.**
+2. **Strategic project funding with the Republic of Korea (2+2 projects)**, AI and digitalisation, with industry and science. Deadline **4 Nov 2026.**
+3. **Pilot projects for secure processing environments** for health data. Deadline **28 Oct 2026.**
+4. **"Sovereign innovation ecosystems for cybersecurity and communication technologies".** Deadline **15 Oct 2026.**
+5. **"Secure in the digital future – cyber-resilient society through secure human-centred IT systems".** Deadline **15 Oct 2026.**
+6. **"6G field tests: bridge to commercialisation".** Deadline **15 Oct 2026.**
+7. **Call "Digitalisation and innovation to preserve resilient marine ecosystems"** (blue economy). Deadline **16 Nov 2026.**
+8. **"BiodivDetect – technologies and methods for recording and assessing unrecorded biodiversity"** (R&D). Deadline **26 Nov 2026.**
+9. **"Hightech Spaces"** (regional innovation ecosystems, public-private partnerships). Deadline **19 Feb 2027.**
+Also open but unrelated to our work: STEM study orientation (24 Nov), e-fuels (30 Nov), the "15-minute city" urban call (17 Nov), fusion technology (15 Oct) and BMFTR procurement notices (23 Nov and 17 Dec).
+
+**Possibilities for a closer look: 1 and 3** (data and AI topics; 4 to 6 end in four days). Read amounts and conditions first.
+
+**Note: you can submit your own idea.** No; you apply to published guidelines, usually in a consortium.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -776,7 +864,7 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | EIC Accelerator, Vollantrag-Stichtage / full-application cut-offs | alle 2–3 Monate / every 2–3 months | Kurzantrag jederzeit; Auswertung am ersten Dienstag im Monat / short proposal any time, evaluated first Tuesday of the month | 2026: 07.01., 04.03., 06.05., 08.07., 02.09., 04.11.; 2027: erster 03.02. | Kurzantrag jederzeit; Ziel 03.02.2027 / short proposal any time; target 3 Feb 2027 | gelesen / read (2026); Suche / search (2027) |
 | EIC STEP Scale Up | Stichtage / cut-offs | — | 2026: 11.02., 06.05., 09.09., 25.11. | derzeit nicht relevant / not relevant now | gelesen / read |
 | Eurostars | zweimal jährlich / twice a year | — | 19.03.2026; 10.09.2026 | Februar 2027 | Suche / search; nächster Termin Schätzung / next date estimate |
-| Prototype Fund | jährlicher Jahrgang / yearly cohort | Jahrgang 01: 11.11.2024 | Jahrgang 03: 30.11.2026, 15:00 MEZ | ab 01.10.2027 | gelesen / read (2026); Suche / search (2024) |
+| Prototype Fund | jährlicher Jahrgang / yearly cohort | 01.10. jedes Jahr / 1 Oct each year | 30.11., 15:00 MEZ (Jahrgang 03: 30.11.2026) | ab 01.09.2027 | gelesen / read |
 | NLnet | wiederkehrend, etwa alle zwei Monate / recurring, about every two months | — | 03.11.2026, 12:00 MEZ | am 04.11.2026 den nächsten Termin ablesen / read the next date on 4 Nov 2026 | gelesen / read (nächster Termin); Rhythmus allgemeines Wissen / cycle general knowledge |
 | SPRIND Challenges | unregelmäßig / irregular | — | 16.10., 22.10., 09.11., 16.11., 30.11.2026 | monatlich / monthly | gelesen / read |
 | KOINNOvationsplatz | laufend; jede Challenge 4–7 Wochen / continuous; each 4–7 weeks | jederzeit / any day | je nach Challenge / varies | wöchentlich (öffentlicher JSON-Feed) / weekly (public JSON feed) | gelesen / read |
@@ -798,6 +886,7 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Eureka Innowwide | wiederkehrende Aufrufe (Aufruf 5) / recurring calls (call 5) | Herbst 2026 | 01.12.2026, 14:00 MEZ | ab Oktober 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
 | Vergabe Bayern (öffentliche Liste) / public list | täglich neu, überwiegend Bau / new daily, mostly construction | laufend / continuous | je Bekanntmachung / per notice | monatlich mit Stichworten (Software, Daten, Digital, App) / monthly with keywords | gelesen / read |
 | evergabe-online (Bund) | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich; Suche ohne Login / weekly; search without login | gelesen / read |
+| BMFTR Bekanntmachungen / announcements | laufend, viele Fristen / continuous, many deadlines | jederzeit / any time | siehe Liste, z. B. 28.10., 01.11., 04.11.2026 / see list, e.g. 28 Oct, 1 Nov, 4 Nov 2026 | wöchentlich, Liste nach Einreichungsfrist sortieren / weekly, sort the list by deadline | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
 
 ---
