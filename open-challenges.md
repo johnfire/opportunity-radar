@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal
 
 ---
 
@@ -316,6 +316,59 @@ Quelle / Source: https://eic.ec.europa.eu/eic-funding-opportunities_en
 
 **Note: you can submit your own idea.** Yes: the short proposal can be submitted at any time.
 
+
+---
+
+# 7. EU Funding & Tenders Portal
+
+Quelle / Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home (über den öffentlichen Suchdienst des Portals gelesen / read through the portal's public search service, 11.10.2026)
+
+## Deutsch
+
+**Das Portal führt 1.197 Einträge als offen oder angekündigt; 509 haben eine Frist nach dem 11.10.2026.** Die meisten sind Horizon-Europe-Themen, die in der Regel ein
+Konsortium aus mehreren Partnern in mehreren Ländern verlangen (allgemeines Wissen; nicht für jedes Thema geprüft). Die offenen Ausschreibungen auf dem Portal
+sind EuropeAid-Projekte für Organisationen außerhalb der EU.
+
+1. **EIC-Verteidigungsaufruf** (HORIZON-EIC-2026-DEFENCE-01). Nur Beteiligungskapital: etwa 10 Investitionen zu je **10 bis 30 Mio. €**, insgesamt 100 Mio. €.
+   Frist: **28.10.2026.** Wer antragsberechtigt ist, war nicht abrufbar.
+2. **Cybersicherheit europäischer KMU mit KI-gestützten Lösungen** (Digital Europe, DEPLOY-CYBER-11-AI4SME). 5 Zuschüsse zu je **3 bis 5 Mio. €**, insgesamt
+   20 Mio. €; als „SME-Unterstützungsmaßnahme“ geführt. Frist: **14.01.2027.**
+3. **Cybersichere Werkzeuge und Dienste auf Basis von KI** (CYBERAI). 4 Zuschüsse zu je **3 bis 5 Mio. €**, insgesamt 15 Mio. €. Frist: **14.01.2027.**
+4. **Dual-Use-Technologien** (Cyber, DUALUSE). 3 Zuschüsse zu je **3 bis 5 Mio. €**, insgesamt 10 Mio. €. Frist: **14.01.2027.**
+5. **DeepRAP: vertrauenswürdige kognitive KI-Systeme** (EIC-Pathfinder-Challenge). Frist: **28.10.2026.** Betrag nicht abgerufen.
+6. **Gegen Drohnen gerichtete Systeme** (EU-Verteidigungsfonds, EDIP). Budget 90 Mio. €. Frist: **13.10.2026.** Wer antragsberechtigt ist, war nicht abrufbar; wirkt wie
+   eine Beschaffungsmaßnahme.
+7. **Mensch-KI-Zusammenarbeit für die Arbeitswelt der Zukunft** (Horizon, zweistufig). Frist: **02.02.2027.** Betrag nicht abgerufen.
+
+Weitere KI- und Datenthemen mit Fristen am 18.03.2027 und ein KI-für-Cybersicherheit-Thema am 15.09.2027 sind vorhanden.
+
+**Möglichkeiten für einen genaueren Blick: 2, 3 und 4** (mit Vorbehalt: Teilnahmebedingungen nicht gelesen; Konsortium wahrscheinlich nötig).
+
+**Hinweis: Eigene Idee einreichen.** Nein; man bewirbt sich auf veröffentlichte Themen.
+
+## English
+
+**The portal lists 1,197 entries as open or forthcoming; 509 have a deadline after 11 Oct 2026.** Most are Horizon Europe topics, which normally require a consortium of
+several partners from several countries (general knowledge; not checked for every topic). The open tenders on the portal are EuropeAid projects for organisations
+outside the EU.
+
+1. **EIC defence call** (HORIZON-EIC-2026-DEFENCE-01). Equity only: about 10 investments of **€10 to 30M** each, €100M in total. Deadline: **28 Oct 2026.**
+   Who is eligible could not be retrieved.
+2. **Cybersecurity of European SMEs with AI-powered solutions** (Digital Europe, DEPLOY-CYBER-11-AI4SME). 5 grants of **€3 to 5M** each, €20M in total;
+   listed as an "SME support action". Deadline: **14 Jan 2027.**
+3. **Cybersecure tools and services relying on AI** (CYBERAI). 4 grants of **€3 to 5M** each, €15M in total. Deadline: **14 Jan 2027.**
+4. **Dual-use technologies** (cyber, DUALUSE). 3 grants of **€3 to 5M** each, €10M in total. Deadline: **14 Jan 2027.**
+5. **DeepRAP: trustworthy cognitive AI systems** (EIC Pathfinder challenge). Deadline: **28 Oct 2026.** Amount not retrieved.
+6. **Counter-drone systems** (EU Defence Fund, EDIP). Budget €90M. Deadline: **13 Oct 2026.** Who can apply could not be retrieved; it looks like a
+   procurement-type action.
+7. **Human/AI collaboration for the workforce of the future** (Horizon, two-stage). Deadline: **2 Feb 2027.** Amount not retrieved.
+
+Other AI and data topics with deadlines on 18 Mar 2027 and an AI-for-cybersecurity topic on 15 Sep 2027 also exist.
+
+**Possibilities for a closer look: 2, 3 and 4** (with a caveat: participation rules not read; a consortium is probably required).
+
+**Note: you can submit your own idea.** No; you apply to published topics.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -343,4 +396,6 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | BAFA Förderung unternehmerischen Know-hows | Richtlinie endet 31.12.2026 / guideline ends 31 Dec 2026 | — | 31.12.2026 | November und Dezember 2026 auf Nachfolger prüfen / check for a successor Nov–Dec 2026 | Suche / search |
 | BayStartUP Wettbewerbe 2027 / competitions | jährliche Saison / yearly season | Voranmeldung offen / pre-registration open | nicht angegeben / not stated | Januar 2027 | gelesen / read |
 | CIHBw Pitch | laufend / rolling | jederzeit / any time | keine / none | Webseite im November 2026 erneut prüfen / recheck the site in Nov 2026 | Suche / search |
+| Digital Europe Cyber-Aufrufe (ECCC) / Cyber calls | jährlich / yearly | 01.09.2026 | 14.01.2027 | ab 01.09.2027 | gelesen / read (2026–27) |
+| EU-Portal Horizon-Themen / Horizon topics | laufend, viele Fristen / continuous, many deadlines | jederzeit / any time | z. B. 28.10.2026, 02.02.2027, 18.03.2027, 15.09.2027 | monatlich über die Portal-Suche / monthly via the portal search | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
