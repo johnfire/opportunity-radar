@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA
 
 ---
 
@@ -191,3 +191,45 @@ challenge@cyberagentur.de.
    sent precisely.
 Shared base of the ideas: a friend-identification tag that protects people and makes them findable. The decision to use force
 stays with humans.
+
+---
+
+# 4. NATO DIANA
+
+Quelle / Source: https://www.diana.nato.int/challenges.html
+
+## Deutsch
+
+**NATO DIANA (Defence Innovation Accelerator for the North Atlantic): derzeit nichts offen**
+
+1. **Jährlicher Aufruf (sechs Challenges).** Der Aufruf für 2027 endete am 03.07.2026; die ausgewählten Innovatoren starten im Januar 2027
+   im Accelerator-Programm. Der nächste Jahresaufruf wird für etwa Juni 2027 erwartet. Je ausgewähltem Innovator: **100.000 €** Vertragsförderung,
+   danach für einige bis zu **300.000 €** in der „Mission Track“, dazu Folgeaufträge über den Rapid Adoption Service ohne weiteren Wettbewerb.
+2. **Dynamische Challenges.** DIANA startet zu jeder Zeit gezielte Aufrufe für dringenden Bedarf. Die erste dieses Jahres, „Decision Superiority for
+   NATO Warfighters“ (KI-Software für Modellierung, Simulation, Wargaming und Entscheidungsunterstützung, TRL 7 oder höher), endete am
+   05.05.2026. Aktuell ist keine dynamische Challenge offen.
+
+**Möglichkeiten für einen genaueren Blick: keine offene; beobachten (diana.nato.int).**
+
+**Bedingungen:** Unternehmen mit Sitz in einem NATO-Staat (Start-ups und KMU willkommen); Universitäten und gemeinnützige Organisationen sind nicht
+zugelassen; Reifegrad TRL 4 oder höher im Jahresaufruf. Ablauf: Kurzantrag, Langantrag, virtuelle Präsentation vor einem Gremium.
+
+**Hinweis: Eigene Idee einreichen.** Nicht möglich. Man bewirbt sich nur auf veröffentlichte Challenge-Themen.
+
+## English
+
+**NATO DIANA (Defence Innovation Accelerator for the North Atlantic): nothing open right now**
+
+1. **Annual call (six challenges).** The 2027 call closed on 3 July 2026; selected innovators start in the accelerator programme in January 2027.
+   The next annual call is expected around June 2027. Per selected innovator: **€100,000** in contract funding, then for some up to **€300,000**
+   in the "Mission Track", plus follow-on contracts through the Rapid Adoption Service without further competition.
+2. **Dynamic challenges.** DIANA launches targeted calls for urgent needs at any time. The first this year, "Decision Superiority for NATO
+   Warfighters" (AI software for modelling, simulation, wargaming and decision support, TRL 7 or higher), closed on 5 May 2026. No dynamic
+   challenge is open today.
+
+**Possibilities for a closer look: none open; watch (diana.nato.int).**
+
+**Conditions:** companies based in a NATO country (start-ups and SMEs welcome); universities and non-profits are not eligible; maturity TRL 4 or
+higher in the annual call. Process: short proposal, long proposal, virtual pitch to a panel.
+
+**Note: you can submit your own idea.** Not possible. You apply only to published challenge topics.
