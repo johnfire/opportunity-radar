@@ -15,7 +15,7 @@ Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Be
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
 4. **Prototype Fund** (Jahrgang 03, Abschnitt / section 16): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; insgesamt bis **79.000 €** (einzeln) bzw. **158.000 €** (Team) in zwei Phasen. / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; up to **€79,000** (individual) or **€158,000** (team) over two phases.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern · 15. evergabe-online · 16. Prototype Fund · 17. BMFTR
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern · 15. evergabe-online · 16. Prototype Fund · 17. BMFTR · 18. oeffentlichevergabe.de
 
 ---
 
@@ -845,6 +845,62 @@ Also open but unrelated to our work: STEM study orientation (24 Nov), e-fuels (3
 
 **Note: you can submit your own idea.** No; you apply to published guidelines, usually in a consortium.
 
+
+---
+
+# 18. oeffentlichevergabe.de (Bekanntmachungsservice des Bundes)
+
+Quelle / Source: https://oeffentlichevergabe.de/ui/en/search (öffentliche Suche, **kein Login nötig** / public search, **no login needed**; 11.10.2026)
+Hinweis / Note: Das zentrale Portal für Bekanntmachungen aller öffentlichen Auftraggeber von Bund, Ländern und Kommunen: **19.691 aktive Bekanntmachungen**, 21.117 neue in den letzten vier Wochen. Filter unter anderem: Gegenstand, Frist, Auftragswert,
+„für KMU geeignet“. Eine Open-Data-Schnittstelle (Datenservice Öffentlicher Einkauf) existiert; die Dokumentation ist nur nach Anmeldung zugänglich; sie wäre die Grundlage für den geplanten Beobachtungs-Bot. Es wurden 11 Stichwörter durchsucht (Software, Daten, KI, App, Beratung, Messtechnik
+und andere); Auftragswerte wurden nicht gelesen. Eignungsnachweise (Referenzen, Umsatz) sind bei jeder Ausschreibung zu prüfen. / The central portal for notices from all public contracting authorities of the federal government, the Länder and municipalities: **19,691 active notices**, 21,117 new in the last four weeks. Filters include subject, deadline, contract value, "suitable for SMEs".
+An Open Data interface (Datenservice Öffentlicher Einkauf) exists; its documentation is only available after registration; it would be the basis for the planned monitoring bot. Eleven keywords were searched (software, data, AI, app, consulting, measurement technology and others); contract values were not read. Suitability proofs (references, turnover) must be checked for every tender.
+Landesportale (zum Beispiel NRW, Baden-Württemberg) veröffentlichen ihre Bekanntmachungen nach meiner Annahme ebenfalls hier; nicht geprüft. / State portals (for example NRW, Baden-Württemberg) publish their notices here too, as far as I assume; not checked.
+
+## Deutsch
+
+**IT, Software, Daten, KI: offene Ausschreibungen (Frist nach dem 11.10.2026), Auswahl**
+
+1. **Landkreis Stade: „Erstellung der Architektur und Beratung bei der Implementierung einer internen Datenplattform“.** Frist **21.10.2026, 23:59.**
+2. **BITMARCK (IT der Krankenkassen): Rahmenvereinbarung mit vielen Losen, unter anderem** Los 4 Spezifikation, Los 9 **Java-Backend-Entwicklung**, Los 13 Testautomatisierung Android/iOS-App, Los 15 Migration, Los 18 UX/UI-Design, Los 19 TI-Modellierung. Frist **19.10.2026, 23:59.**
+3. **LfA Förderbank Bayern: „Unterstützung Softwareentwicklung“** (zwei Lose, eines mit Risikobezug) und „SAP-Basis“. Frist **19.10.2026, 14:00.**
+4. **Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM): Softwareentwicklung, Architektur, Projektsteuerung, UI/UX-Design;** außerdem Qualitätssicherung und Testautomatisierung sowie IT-Sicherheit/Datenschutz. Frist **02.11.2026, 13:00.**
+5. **Neue Wege Kreis Bergstraße: „Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung“.** Frist **29.10.2026, 23:59.**
+6. **Bundesamt für Strahlenschutz: „Prüfung des Einsatzes von KI-Verfahren im radiologischen Notfallmanagementsystem“.** Frist **03.11.2026, 09:00.** Daneben die Studie zum Stand von KI und maschinellem Lernen (Frist 15.10.).
+7. **Deutsche Raumfahrtagentur im DLR: „Entwicklung von Szenarien zur Bereitstellung und Verarbeitung von Erdbeobachtungsdaten ab 2030 (EODATA30+)“.** Frist **03.11.2026, 12:00.**
+8. **Fraunhofer: „Audiokodierverfahren und Signalverarbeitung“** (Los 1). Frist **02.11.2026, 10:00.**
+9. **ZDF: „ZDFheute Frontend-Entwicklung, UX/UI, Konzeption“** (Los 2a). Frist **05.11.2026, 12:00.**
+10. **Kindersprachbrücke Jena e.V.: „Konzeption, Entwicklung und Weiterentwicklung einer webbasierten Kinderschutz-App“.** Frist **27.10.2026.**
+11. **Land Hessen (HZD): „Digi-Expert-kommunal“** (Lose „Grundlagen der digitalen Transformation“ und „Technische Umsetzung/konkrete Anwendungen“, Frist 15.10.; „Erweiterter Betrieb und fachliche Administration“, Frist 29.10.).
+12. **Weitere bereits genannte:** Stadt Bamberg MoMM-App (16.10.), TMB Brandenburg Datenmanagementsystem (22.10.), DAK-Gesundheit Trainings-App (29.10.).
+13. **uni-assist: Rahmenvereinbarung** mit fünf Losen (Softwareentwicklung, Anforderungsmanagement, Systemadministration, IT- und Datenschutzsicherheit, Projektkoordination); die angezeigte Frist (24.07.2029) ist vermutlich das Ende der Vertragslaufzeit; die Angebotsfrist ist offen.
+
+**Möglichkeiten für einen genaueren Blick: 1, 2, 3, 4, 5 und 6** (viele Lose, Software- und Datenarbeit, KI; passend zu bis zu 25 Berechnungstagen im Monat; Referenzen und Umsatz prüfen).
+
+**Hinweis: Eigene Idee einreichen.** Nein; man bietet auf veröffentlichte Aufträge. Zur Angebotsabgabe führt ein Link auf die jeweilige Vergabeplattform.
+
+## English
+
+**IT, software, data, AI: open tenders (deadline after 11 Oct 2026), selection**
+
+1. **District of Stade: "Creation of the architecture and consulting for implementing an internal data platform".** Deadline **21 Oct 2026, 23:59.**
+2. **BITMARCK (health insurers' IT): framework agreement with many lots, including** lot 4 specification, lot 9 **Java backend development**, lot 13 test automation for Android/iOS apps, lot 15 migration, lot 18 UX/UI design, lot 19 TI process modelling. Deadline **19 Oct 2026, 23:59.**
+3. **LfA Förderbank Bayern: "Support for software development"** (two lots, one risk-related) and "SAP Basis". Deadline **19 Oct 2026, 14:00.**
+4. **Federal Institute for Drugs and Medical Devices (BfArM): software development, architecture, project steering, UI/UX design;** also quality assurance and test automation, and IT security/data protection. Deadline **2 Nov 2026, 13:00.**
+5. **Neue Wege Kreis Bergstraße: "Provision of an AI competence platform and delivery of AI basics and advanced AI training".** Deadline **29 Oct 2026, 23:59.**
+6. **Federal Office for Radiation Protection: "Review of the use of AI methods in the radiological emergency management system".** Deadline **3 Nov 2026, 09:00.** Also the study on the state of AI and machine learning (deadline 15 Oct).
+7. **German Space Agency at the DLR: "Development of scenarios for provision and processing of Earth observation data from 2030 (EODATA30+)".** Deadline **3 Nov 2026, 12:00.**
+8. **Fraunhofer: "Audio coding methods and signal processing"** (lot 1). Deadline **2 Nov 2026, 10:00.**
+9. **ZDF: "ZDFheute front-end development, UX/UI, concept"** (lot 2a). Deadline **5 Nov 2026, 12:00.**
+10. **Kindersprachbrücke Jena e.V.: "Concept, development and further development of a web-based child protection app".** Deadline **27 Oct 2026.**
+11. **State of Hesse (HZD): "Digi-Expert-kommunal"** (lots "Foundations of digital transformation" and "Technical implementation / concrete applications", deadline 15 Oct; "Extended operation and technical administration", deadline 29 Oct).
+12. **Others already mentioned:** City of Bamberg MoMM app (16 Oct), TMB Brandenburg data management system (22 Oct), DAK-Gesundheit training app (29 Oct).
+13. **uni-assist: framework agreement** with five lots (software development, requirements management, system administration, IT and data protection security, project coordination); the deadline shown (24 Jul 2029) is probably the end of the contract term; the bid deadline is open.
+
+**Possibilities for a closer look: 1, 2, 3, 4, 5 and 6** (many lots, software and data work, AI; fits up to 25 billable days a month; check references and turnover).
+
+**Note: you can submit your own idea.** No; you bid on published contracts. A link leads to the relevant procurement platform for submitting the bid.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -887,6 +943,7 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Vergabe Bayern (öffentliche Liste) / public list | täglich neu, überwiegend Bau / new daily, mostly construction | laufend / continuous | je Bekanntmachung / per notice | monatlich mit Stichworten (Software, Daten, Digital, App) / monthly with keywords | gelesen / read |
 | evergabe-online (Bund) | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich; Suche ohne Login / weekly; search without login | gelesen / read |
 | BMFTR Bekanntmachungen / announcements | laufend, viele Fristen / continuous, many deadlines | jederzeit / any time | siehe Liste, z. B. 28.10., 01.11., 04.11.2026 / see list, e.g. 28 Oct, 1 Nov, 4 Nov 2026 | wöchentlich, Liste nach Einreichungsfrist sortieren / weekly, sort the list by deadline | gelesen / read |
+| oeffentlichevergabe.de (alle Auftraggeber) / all contracting authorities | täglich neu (rund 21.000 pro vier Wochen) / new daily (about 21,000 per four weeks) | laufend / continuous | je Ausschreibung / per tender | wöchentlich mit Stichworten und Sortierung nach frühester Frist; später per Open-Data-Schnittstelle / weekly with keywords and sorted by earliest deadline; later via the Open Data interface | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
 
 ---
