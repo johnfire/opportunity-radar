@@ -799,3 +799,23 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Vergabe Bayern (öffentliche Liste) / public list | täglich neu, überwiegend Bau / new daily, mostly construction | laufend / continuous | je Bekanntmachung / per notice | monatlich mit Stichworten (Software, Daten, Digital, App) / monthly with keywords | gelesen / read |
 | evergabe-online (Bund) | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich; Suche ohne Login / weekly; search without login | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
+
+---
+
+# Anhang: Quellen, die wir derzeit nicht weiterverfolgen / Appendix: sources we are not pursuing for now
+
+Kurz erklärt, damit man weiß, was sie sind. / A short explanation so we know what they are.
+
+## Deutsch
+
+- **EXIST** (Bundesprogramm für Gründungen aus der Wissenschaft): Gründungsstipendium für Gründerinnen und Gründer aus Hochschulen und Forschungseinrichtungen. Voraussetzung: Studienabschluss oder letzte Beschäftigung an einer Forschungseinrichtung **nicht länger als fünf Jahre
+  her**; die Hochschule stellt den Antrag. Stipendium 1.000 bis 3.000 € im Monat für bis zu ein Jahr. Passt derzeit nicht.
+- **Sovereign Tech Agency** (staatliche Agentur): bezahlt Arbeit an **Open-Source-Software**, die als digitale Infrastruktur dient (zum Beispiel Wartung kritischer Bibliotheken). Nur für Open Source; derzeit nicht relevant.
+- **LfA Förderbank Bayern** (bayerische Staatsbank für Förderung): hier **leiht man Geld** (Gründungs- und Wachstumskredite). Kein Zuschuss und keine Ausschreibung.
+
+## English
+
+- **EXIST** (federal programme for startups from science): a founder stipend for founders from universities and research institutions. Condition: degree or last employment at a research institution **no more than five years ago**; the university submits the
+  application. Stipend €1,000 to €3,000 a month for up to a year. Does not fit at the moment.
+- **Sovereign Tech Agency** (government agency): pays for work on **open-source software** that serves as digital infrastructure (for example maintenance of critical libraries). Open source only; not relevant for now.
+- **LfA Förderbank Bayern** (the Bavarian state development bank): this is where you **borrow money** (founder and growth loans). Not a grant and not a tender.
