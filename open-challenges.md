@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation
 
 ---
 
@@ -233,3 +233,45 @@ zugelassen; Reifegrad TRL 4 oder höher im Jahresaufruf. Ablauf: Kurzantrag, Lan
 higher in the annual call. Process: short proposal, long proposal, virtual pitch to a panel.
 
 **Note: you can submit your own idea.** Not possible. You apply only to published challenge topics.
+
+---
+
+# 5. EDA und EU-Verteidigungsinnovation / EDA and EU defence innovation (EDA, HEDI, EUDIS, EU Defence Fund)
+
+Quellen / Sources: https://eda.europa.eu · https://eudis.europa.eu/eudis-tracks/sme-calls_en
+
+## Deutsch
+
+**Derzeit nichts offen.**
+
+1. **EU-Verteidigungsfonds (EDF), KMU-Aufrufe 2026.** Zwei themenoffene Aufrufe, beide am 29.09.2026, 17:00 Uhr Brüsseler Zeit, geschlossen.
+   Forschung: bis zu **4 Mio. €** je Projekt bei 100 % Förderung (Gesamtbudget 35 Mio. €). Entwicklung: bis zu **6 Mio. €** je Projekt bei 20 bis 100 %
+   Förderung (Gesamtbudget 30 Mio. €). Einzelne KMU sind nicht zugelassen; nötig ist ein Konsortium aus mindestens drei Unternehmen aus mindestens
+   drei EU-Staaten. Gefördert wurden 16 Projekte (2025), 19 (2024) und 17 (2023).
+2. **EUDIS Business Accelerator.** 40 Startups und Scale-ups in zwei Gruppen pro Jahr. Die Aufrufe 2026 liefen vom 16.12.2025 bis 25.01.2026 und
+   im Mai bis Juni 2026. Derzeit kein Aufruf offen.
+3. **EDA Sentinel Strike Challenge** (Preiswettbewerb für komplette Loitering-Munition-Systeme, EDA/HEDI): Stufe 1 beendet; fünf Firmen erhielten je
+   **30.000 €** und gehen im Herbst 2026 in Feldversuche in Portugal. Nur für fertige Systeme.
+
+**Möglichkeiten für einen genaueren Blick: keine offene; beobachten** (nächster EUDIS-Accelerator-Aufruf, EDF-KMU-Aufrufe 2027, zweiter
+HEDI-Hackathon 2026; der Frühjahrs-Hackathon hatte das Thema „Luftraumverteidigung“).
+
+**Hinweis: Eigene Idee einreichen.** Kein Weg gefunden. Die EDA-Beschaffungsseite war nicht erreichbar und wurde nicht geprüft.
+
+## English
+
+**Nothing open right now.**
+
+1. **EU Defence Fund (EDF), SME calls 2026.** Two non-thematic calls, both closed on 29 Sept 2026, 17:00 Brussels time. Research: up to **€4M**
+   per project at 100% funding (total budget €35M). Development: up to **€6M** per project at 20 to 100% funding (total budget €30M). Single
+   SMEs are not allowed; a consortium of at least three companies from at least three EU states is required. Funded: 16 projects (2025),
+   19 (2024), 17 (2023).
+2. **EUDIS Business Accelerator.** 40 startups and scale-ups in two cohorts a year. The 2026 calls ran 16 Dec 2025 to 25 Jan 2026 and in May to
+   June 2026. No call open now.
+3. **EDA Sentinel Strike Challenge** (prize contest for complete loitering-munition systems, EDA/HEDI): Stage 1 is over; five companies received
+   **€30,000** each and go to field trials in Portugal in autumn 2026. For finished systems only.
+
+**Possibilities for a closer look: none open; watch** (next EUDIS accelerator call, EDF SME calls 2027, the second HEDI hackathon of 2026; the
+spring hackathon's theme was airspace defence).
+
+**Note: you can submit your own idea.** No route found. EDA's procurement page was not reachable and was not checked.
