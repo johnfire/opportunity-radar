@@ -145,6 +145,18 @@ Dieser Weg ist nur aus Suchergebnissen bekannt und nicht von der Webseite bestä
 Cyberagentur startet etwa einmal im Jahr eine Challenge (SPECTRA im August 2025, MARLIN im Mai 2026); Kontakt:
 challenge@cyberagentur.de.
 
+**Eigene Ideen für einen CIHBw-Pitch (Idee von Chris, Ideenstadium; Neuheit nicht geprüft, ähnliche Systeme gibt es teils schon):**
+1. **Vermeidung von Eigenbeschuss.** Jede Soldatin und jeder Soldat trägt eine Freund-Kennung (Tag), sodass Führung und Bediener sofort
+   sehen, wer zu den eigenen Kräften gehört, bevor jemand schießt.
+2. **Schutz vor Drohnen.** Ein Schwarm eigener Abfangdrohnen über einer Einheit, die feindliche Drohnen im Luftraum abfangen
+   (Drohne gegen Drohne). Eigene Drohnen müssen sich untereinander erkennen, um Eigenverluste zu vermeiden.
+3. **Aufklärung durch Drohnenschwärme.** Drohnen senden Aufklärungsdaten in Echtzeit zurück; es ist nicht entscheidend, dass sie
+   zurückkehren. Der Mensch bewertet die Daten und entscheidet.
+4. **Verwundeten- und Rettungshilfe.** Dieselbe Kennung mit Notruf-Taste: Auf Knopfdruck wird Ort und Notlage gemeldet, damit
+   Sanitäter gezielt geschickt werden können.
+Gemeinsame Basis der Ideen: eine Freund-Kennung, die Menschen schützt und auffindbar macht. Die Entscheidung über den Einsatz von
+Gewalt bleibt bei Menschen.
+
 ## English
 
 **CIHBw and Cyberagentur: open opportunities**
@@ -167,3 +179,15 @@ challenge@cyberagentur.de.
 time. This route is known only from search results and is not confirmed on the website, because it is currently unreachable. The
 Cyberagentur launches a challenge about once a year (SPECTRA in August 2025, MARLIN in May 2026); contact:
 challenge@cyberagentur.de.
+
+**Own ideas for a CIHBw pitch (idea by Chris, idea stage; novelty not checked, similar systems partly exist already):**
+1. **Fratricide prevention.** Every soldier carries a friend-identification tag so that leaders and operators see at once who is
+   friendly before anyone fires.
+2. **Protection against drones.** A swarm of friendly interceptor drones over a unit that intercept hostile drones in the air
+   (drone against drone). Friendly drones must recognize each other to avoid losing their own.
+3. **Reconnaissance by drone swarms.** Drones transmit reconnaissance data back in real time; it does not matter whether they come
+   back. A person assesses the data and decides.
+4. **Casualty and medevac help.** The same tag with an emergency button: one press reports position and distress, so medics can be
+   sent precisely.
+Shared base of the ideas: a friend-identification tag that protects people and makes them findable. The decision to use force
+stays with humans.
