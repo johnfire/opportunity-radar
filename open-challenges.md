@@ -15,7 +15,7 @@ Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Be
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
 4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen (mit 11a. DTVP) · 12. Eurostars, Innowwide, NLnet
 
 ---
 
@@ -616,6 +616,30 @@ Geprüft / Checked 11.10.2026: TED (336 deutsche Bekanntmachungen mit Frist nach
 
 **Note: you can submit your own idea.** No; you bid on published contracts. New ones appear daily.
 
+
+
+## 11a. DTVP (Deutsches Vergabeportal): Registrierungsproblem, später fortsetzen / registration problem, to continue later
+
+Quelle / Source: https://www.dtvp.de
+
+**Deutsch**
+
+- **Stand 11.10.2026: Registrierung nicht abgeschlossen.** Beim Registrieren wurde die E-Mail-Adresse mit einem Tippfehler eingegeben. Das Portal meldet jetzt „Doppelregistrierung“: Ein Unternehmensaccount mit diesen Daten existiert
+  bereits, und eine neue Registrierung ist nicht möglich. Die „Bitte um Zugang“-Funktion würde eine Mail an die falsche Adresse schicken und wurde nicht benutzt. Eine E-Mail an den DTVP-Support (bieter@dtvp.de, Telefon 0221 / 97 66 8 – 200)
+  zur Korrektur ist vorbereitet; wir kommen später darauf zurück.
+- **Noch nichts durchsucht.** Es wurde keine Ausschreibung auf DTVP geprüft.
+- **Editionen und Preise (laut Seite):** Basic **0 €** (dauerhaft kostenfrei); Professional **49 € pro Monat** (Einzelplatz) mit 30 Tagen Test; Enterprise **99 € pro Monat** (bis 10 Nutzer); Supreme ab **199 € pro Monat** (mehr als 10 Nutzer). Die
+  Teilnahme an Ausschreibungen ist in allen Editionen kostenfrei. **Achtung:** Der Test endet in ein kostenpflichtiges Abonnement (Jahresrechnung), wenn man nicht vor Ablauf **schriftlich per E-Mail an bieter@dtvp.de** kündigt.
+- **Gewählte Kategorie:** CPV 72000000-5 (IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung). Weitere Kategorien (Forschung und Entwicklung, Ingenieurleistungen, Unternehmensberatung) lassen sich später ergänzen.
+
+**English**
+
+- **Status 11 Oct 2026: registration not finished.** The email address was mistyped during registration. The portal now reports "Doppelregistrierung" (duplicate registration): a company account with these details already exists, and a new
+  registration is not possible. The "request access" feature would send a mail to the wrong address and was not used. An email to DTVP support (bieter@dtvp.de, phone 0221 / 97 66 8 – 200) asking for a correction is prepared; we will come back to it later.
+- **Nothing searched yet.** No tender on DTVP has been checked.
+- **Editions and prices (per the site):** Basic **€0** (permanently free); Professional **€49 per month** (single seat) with a 30-day trial; Enterprise **€99 per month** (up to 10 users); Supreme from **€199 per month** (more than 10 users).
+  Taking part in tenders is free in every edition. **Caution:** the trial turns into a paid subscription (annual invoice) unless you cancel **in writing by email to bieter@dtvp.de** before it ends.
+- **Chosen category:** CPV 72000000-5 (IT services: consulting, software development, internet and support). More categories (research and development, engineering services, business consulting) can be added later.
 
 ---
 
