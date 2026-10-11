@@ -29,7 +29,7 @@ Also: Notes World "big ideas" entries and an Open Brain task-eval record.
 `radar/` is a small Python program that checks KOINNOvationsplatz, the EU Funding & Tenders portal and TED every Saturday at 08:00
 and writes `radar/digests/YYYY-MM-DD-weekly.md` (new items, items closing within 14 days, source health, sources to check by hand),
 plus a desktop notification. It never submits anything. See `radar/README.md`. The first digest is `radar/digests/2026-10-11-weekly.md`.
-Planned next: page-based sources (service.bund.de, BMFTR announcements, SPRIND, Prototype Fund) in a "twice-monthly" group (1st and 15th).
+The "twice-monthly" group (1st and 15th) now reads BMFTR announcements and service.bund.de; SPRIND and Prototype Fund page watches are still to come, and the twice-monthly timer is not installed yet.
 
 ## Decisions so far (Chris)
 - Art opportunities are excluded; Germany and the rest of Europe are in; the USA is out.

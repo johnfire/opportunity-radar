@@ -6,7 +6,7 @@ what is **closing within 14 days**, and which sources **failed**. It never submi
 ## Run it
 ```bash
 .venv/bin/radar run --group weekly          # KOINNO, EU portal, TED
-.venv/bin/radar run --group twice-monthly   # page-based sources (added one by one)
+.venv/bin/radar run --group twice-monthly   # BMFTR announcements, service.bund.de
 ```
 Output: `digests/YYYY-MM-DD-<group>.md` (never overwritten; a second run on the same day gets `-2`),
 `state/seen.json` (what was already reported), `audit/audit.jsonl` (append-only record of every action).
@@ -16,7 +16,7 @@ A desktop notification (`notify-send`) summarises the run.
 | Group | When | Sources |
 |---|---|---|
 | weekly | Saturday 08:00 | koinno, eu_portal, ted |
-| twice-monthly | 1st and 15th, 08:00 | none yet |
+| twice-monthly | 1st and 15th, 08:00 | bmftr, service_bund (SPRIND and Prototype Fund page watches still to come) |
 
 ```bash
 systemd/install_timers.sh                   # weekly only

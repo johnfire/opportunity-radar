@@ -15,7 +15,7 @@ pytestmark = [
 ]
 
 
-@pytest.mark.parametrize("source_name", ["koinno", "eu_portal", "ted"])
+@pytest.mark.parametrize("source_name", ["koinno", "eu_portal", "ted", "bmftr", "service_bund"])
 def test_live_source_returns_opportunities_with_the_expected_fields(source_name: str) -> None:
     context = RunContext("smoke", date.today())
     opportunities = SOURCES[source_name].fetch(fetch_over_network, context)
