@@ -20,7 +20,7 @@ Supporting documents:
 | `koinno-open-challenges-de-en.md` | Same document, German first |
 | `open-challenges.md` | **Master list** of open calls, one section per website (German first, English second), each with a shortlist. Sections: 1. SPRIND, 2. KOINNOvationsplatz, 3. CIHBw and Cyberagentur, 4. NATO DIANA, 5. EDA and EU defence innovation, 6. EIC, 7. EU Funding & Tenders Portal, 8. German funding programmes (Bavaria, ZIM), 9. Behzad's programmes, 10. Federal funding, 11. Tenders (TED, service.bund.de), 12. Eurostars, Innowwide, NLnet, 13. DTVP (registration problem), 14. Vergabe Bayern (nothing suitable), 15. evergabe-online, 16. Prototype Fund, 17. BMFTR, 18. oeffentlichevergabe.de (the national notice portal, many IT tenders); an appendix lists sources we are not pursuing; plus; a short list of calls with a stated problem and a grant sits at the very top a calendar of recurring dates at the end. Detailed earlier SPRIND version: git commit f6553e2 |
 | `open-issues.md` | Everything open: submit-by dates, sources the radar cannot read, decisions, work to do |
-| `pilot-shortlist.md` | Six Augsburg-area firms as candidates for the first process-analysis pilot (not researched) |
+| `pilot-shortlist.md` | Six Augsburg-area firms as candidates for the first process-analysis pilot (researched 2026-10-11; see `pilot-research.md`) |
 
 `submitted/koinno-beihilfe/` holds what we submitted to the LBV Beihilfe-App market sounding (submitted 2026-10-11; German as sent plus an English reading copy).
 Outside this repository:

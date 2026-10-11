@@ -1,7 +1,7 @@
 # Pilot shortlist — first real client for process-analysis
 
 Sunday 2026-10-11. Built from `~/ai-workzone/rehm-consulting/businesses-from-daily-brief.md` (154 firms; I filtered
-to the Augsburg area and read each firm's one-line signal). **I have not researched any firm.** Sizes, owners and
+to the Augsburg area and read each firm's one-line signal). **First research is in `pilot-research.md` (2026-10-11); that file corrects several entries below.** Sizes, owners and
 works councils are unknown unless stated. The ranking rests only on the register's signal.
 
 ## What a good first pilot looks like

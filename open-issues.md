@@ -27,7 +27,7 @@ The radar never works around CAPTCHAs, bot checks or logins.
 
 ## C. Decisions waiting on Chris
 1. **SPRIND** go / no-go and team: see section A. Also which Augsburg professors and fields, for SPRIND or BayVFP.
-2. **Pilot firms** for the process-analysis product: research done in `pilot-research.md`; Chris picks one to approach.
+2. **Pilot firms** for the process-analysis product: research done in `pilot-research.md` (Rupp, Riegele best); Chris picks one to approach.
 3. **Prototype Fund**: Chris is thinking it over. It funds free and open-source software only, individuals only (freelancers), and it rules out "vibe coding" (AI as a tool is allowed, but no outsourcing of the work to people or machines). Chris sees the programme as anti-AI. No decision.
 4. **Keywords**: review the first real digests (Thu 15 Oct twice-monthly, Sat 17 Oct weekly) and tune `radar/config/keywords.txt` (350 terms now; "digitalisierung" is noisy).
 
