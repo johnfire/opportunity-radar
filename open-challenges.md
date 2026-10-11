@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz
 
 ---
 
@@ -59,3 +59,57 @@ Schnitt zwölf Wochen. Die Einreichung ist kein förmlicher Antrag. Fördersumme
 (https://sprind.org/en/actions/your-project). No deadline. SPRIND looks for genuine breakthroughs, not incremental improvements.
 About 2,500 ideas were submitted by the end of December 2025, and fewer than ten percent were supported. Review takes about
 twelve weeks on average. A submission is not a formal application. Funding amounts are not stated.
+
+---
+
+# 2. KOINNOvationsplatz
+
+Quelle / Source: https://app.koinnovationsplatz.de/challenges
+
+## Deutsch
+
+**KOINNOvationsplatz: offene Möglichkeiten** (Markterkundungen öffentlicher Auftraggeber vor einer Ausschreibung; für keine wird die
+Antwort vergütet)
+
+1. **Die nächste Generation der Beihilfe-App** (Landesamt für Besoldung und Versorgung Baden-Württemberg). Ersatz für die App
+   „Beihilfe BW“, mit der rund 327.000 Beschäftigte und Versorgungsempfänger Arztrechnungen und Rezepte fotografieren und
+   einreichen (etwa 2,4 Mio. Anträge pro Jahr). Markterkundung vor einer EU-weiten Ausschreibung, voraussichtlich 2027, Vertrag über
+   5 Jahre; gewünscht ist ein bewährtes Standardprodukt. **Keine Vergütung für die Antwort.** Letzter Tag: **12.10.2026.**
+2. **Kinderwarnwesten aus ausgedienter Arbeitskleidung** (Stadtreinigung Hamburg). Ausgediente Arbeitskleidung wird zu
+   Kinderwarnwesten verarbeitet, etwa 2.000 Stück im Jahr: Rücknahme, Sortierung, Entfernen von Verschlüssen, Design, Herstellung
+   und Lieferung. **Keine Vergütung genannt.** Letzter Tag: **11.10.2026 (heute).**
+3. **Nachhaltiges Büromaterial** (Bezirksregierung Münster). Vorbereitung der landesweiten Rahmenvereinbarung für Büromaterial in
+   Nordrhein-Westfalen für 2027; gefragt wird nach Nachhaltigkeitszertifikaten, Mehrwegversand, nachhaltigem Transport und
+   Nachweisen. **Keine Vergütung genannt.** Letzter Tag: **25.10.2026.**
+4. **Stellung von Mobilen Sanitäranlagen** (Bundeswehr-Dienstleistungszentrum Rostock). Rahmenvereinbarung über vier bis sechs Jahre
+   in vier regionalen Losen in Mecklenburg-Vorpommern, Vergabe im vierten Quartal 2026 geplant; gefragt wird nach
+   Leistungsverzeichnis, Preisen für Transport sowie Auf- und Abbau, Vorlaufzeiten und Losstruktur. **Keine Vergütung genannt.**
+   Letzter Tag: **28.10.2026.**
+5. **Moderne IT-Komponenten und mobile Endgeräte** (Universitätsstadt Tübingen). EU-weite Ausschreibung für IT-Peripherie und
+   Apple-Geräte im Rahmen eines vierjährigen Rahmenvertrags; der Auftraggeber schätzt sein Einkaufsvolumen auf etwa 80.000 € pro
+   Jahr. **Keine Vergütung für die Antwort.** Letzter Tag: **03.11.2026.**
+
+**Möglichkeit für einen genaueren Blick: 1** (Beihilfe-App).
+
+## English
+
+**KOINNOvationsplatz: open opportunities** (market soundings by public buyers ahead of a tender; none pays for the response)
+
+1. **Die nächste Generation der Beihilfe-App** (Landesamt für Besoldung und Versorgung Baden-Württemberg). Replacement for the
+   "Beihilfe BW" app, with which about 327,000 employees and pensioners photograph medical bills and prescriptions and submit
+   them (about 2.4 million applications a year). Market sounding ahead of an EU-wide tender, expected in 2027, for a 5-year
+   contract; a proven standard product is wanted. **No payment for the response.** Last day: **12 Oct 2026.**
+2. **Kinderwarnwesten aus ausgedienter Arbeitskleidung** (Stadtreinigung Hamburg). Worn-out work clothing is turned into
+   children's warning vests, about 2,000 a year: take-back, sorting, removing fasteners, design, making and delivery.
+   **No payment stated.** Last day: **11 Oct 2026 (today).**
+3. **Nachhaltiges Büromaterial** (Bezirksregierung Münster). Preparation of North Rhine-Westphalia's state-wide office-supplies
+   framework contract for 2027; asks about sustainability certification, reusable shipping, sustainable transport and proof.
+   **No payment stated.** Last day: **25 Oct 2026.**
+4. **Stellung von Mobilen Sanitäranlagen** (Bundeswehr service centre Rostock). Framework agreement of four to six years in four
+   regional lots in Mecklenburg-Vorpommern, tender planned for Q4 2026; asks about the specification, pricing of transport and
+   setup, lead times and the lot structure. **No payment stated.** Last day: **28 Oct 2026.**
+5. **Moderne IT-Komponenten und mobile Endgeräte** (city of Tübingen). EU-wide tender for IT peripherals and Apple devices under
+   a four-year framework contract; the buyer estimates its purchasing at about €80,000 a year. **No payment for the response.**
+   Last day: **3 Nov 2026.**
+
+**Possibility for a closer look: 1** (Beihilfe app).
