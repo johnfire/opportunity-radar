@@ -447,7 +447,7 @@ Hinweis / Note: Keines dieser Programme nennt eine Vergütung für Bewerbungen. 
    Programm März bis Juni 2027.
 2. **Flämingo Accelerator, Kohorte 3 (DB mindbox).** Laut DB-mindbox-Seite Bewerbungsfrist **22.11.2026**. Frühere Kohorten: sechs Monate, ohne Beteiligung, für Mobilität und Logistik sowie IKT und
    Kreativwirtschaft. Beträge und Teilnahmebedingungen für Kohorte 3 nicht bestätigt.
-3. **BMW Group Startup Garage.** Bewerbungsformular jederzeit; Bewertung dauert 4 bis 8 Wochen; vierMonats-Pilotprojekte ohne Beteiligung; BMW gibt an, dass über 50 % der Teilnehmer bezahlte
+3. **BMW Group Startup Garage.** Bewerbungsformular jederzeit; Bewertung dauert 4 bis 8 Wochen; viermonatige Pilotprojekte ohne Beteiligung; BMW gibt an, dass über 50 % der Teilnehmer bezahlte
    Folgeprojekte erhielten. Bewertet werden Prototyp-Reife, Team, Finanzierung. Vergütung der Piloten nicht genannt.
 4. **GovTecHH (Hamburg).** Idee für eine Zusammenarbeit jederzeit per E-Mail an startups@sk.hamburg.de; Pilotprojekte mit der Stadtverwaltung. Vergütung nicht genannt. Keine Frist.
 5. **BayStartUP Businessplan-Wettbewerbe 2027.** Voranmeldung offen; vier Wettbewerbe (München, Nordbayern, Ideenreich, Schwaben); Preisgelder zusammen **85.000 €** (laut Seite); Schwaben nach einer
