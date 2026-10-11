@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme
 
 ---
 
@@ -369,6 +369,64 @@ Other AI and data topics with deadlines on 18 Mar 2027 and an AI-for-cybersecuri
 
 **Note: you can submit your own idea.** No; you apply to published topics.
 
+
+---
+
+# 8. Deutsche Förderprogramme / German funding programmes (Bayern zuerst, Bund folgt / Bavaria first, federal to follow)
+
+Quellen / Sources: Bayern Innovativ, Bayerische Forschungsstiftung, Digitalbonus Bayern, ZIM (Details siehe Einträge / see entries)
+
+## Deutsch
+
+**Bayern**
+
+1. **Bayerische Forschungsstiftung, „Hochtechnologien für das 21. Jahrhundert“ (laufend offen).** Fördert Forschungs- und Entwicklungsverbundprojekte zwischen Unternehmen,
+   Hochschulen und Forschungseinrichtungen in Bayern, unter anderem im Bereich IKT. Laut einer Zweitquelle ohne feste Frist, geöffnet bis 30.06.2027. Beträge nicht abgerufen;
+   ein Verbundpartner wird verlangt.
+2. **Digitalbonus Bayern (laufend, monatliche Kontingente).** Zuschuss für die Digitalisierung kleiner Unternehmen in Bayern; neu aufgelegt bis 31.12.2027, KI und Robotik als neue
+   Schwerpunkte. Der Antrag muss vom Unternehmen selbst gestellt werden (ELSTER-Unternehmenskonto), nicht von Dritten. Betrag nicht gefunden (Ihre Notiz vom 07.09.: bis 30.000 €).
+3. **BayVFP Digitalisierung (Bayerisches Verbundforschungsprogramm), derzeit geschlossen.** 2026 gab es vier Aufrufe: KI/Data Science, Kommunikationsnetze der Zukunft,
+   Cybersicherheit, Elektronische Systeme. Projektskizzen bis **16.04.2026, 14:00 Uhr**; Infoveranstaltung am 18.03.2026; Antrag über das Online-System ELAN beim Projektträger Bayern
+   Innovativ. Förderung bis 50 % (industrielle Forschung) beziehungsweise 25 % (experimentelle Entwicklung), plus bis 15 % für KMU. Vorjahr: Frist 27.02.2025. Der nächste Aufruf
+   kommt wahrscheinlich Anfang 2027 (Schätzung).
+4. **BayTOU und „Start?Zuschuss!“** Bayerische Programme für technologieorientierte Gründungen; in Suchergebnissen genannt, nicht geprüft.
+
+**Bund**
+
+5. **ZIM (Zentrales Innovationsprogramm Mittelstand), derzeit Antragsstopp laut Suchergebnis.** ZIM steht für „Zentrales Innovationsprogramm Mittelstand“, das Bundesprogramm für
+   Forschung und Entwicklung in kleinen und mittleren Unternehmen. Einzelprojekte: förderfähige Kosten bis **690.000 €**, Fördersatz **25 bis 45 %**; Freiberufler sind zugelassen.
+   Stand laut einer Suchzusammenfassung (nicht auf der Originalseite bestätigt): seit etwa Juli 2026 Antragsstopp, Aufhebung für Anfang 2027 angestrebt. Die ZIM-Webseite (zim.de) blockiert
+   automatische Abrufe.
+
+**Möglichkeiten für einen genaueren Blick: 1** (mit Verbundpartner). **Vormerken: 3** (nächster BayVFP-Aufruf, Anfang 2027) und **5** (sobald der ZIM-Antragsstopp endet).
+
+**Hinweis: Eigene Idee einreichen.** Nur im Rahmen der laufend offenen Programme (Nr. 1, 2); BayVFP und ZIM haben feste Aufrufe beziehungsweise Antragsregeln.
+
+## English
+
+**Bavaria**
+
+1. **Bavarian Research Foundation, "High technologies for the 21st century" (continuously open).** Funds R&D collaborative projects between companies, universities and research
+   institutions in Bavaria, including ICT. Per a secondary source there is no fixed deadline and it is open until 30 June 2027. Amounts not retrieved; a project partner is required.
+2. **Digitalbonus Bayern (continuous, monthly quotas).** Grant for digitalisation of small Bavarian companies; relaunched to 31 Dec 2027, with AI and robotics as new priorities.
+   The company must apply itself (ELSTER business account), not a third party. Amount not found (your note of 7 Sept: up to €30,000).
+3. **BayVFP Digitalisierung (Bavarian Collaborative Research Programme), currently closed.** 2026 had four calls: AI/data science, future communication networks, cybersecurity,
+   electronic systems. Project sketches were due **16 April 2026, 14:00**; info event on 18 March 2026; applications through the online system ELAN to the project agency Bayern
+   Innovativ. Funding up to 50% (industrial research) or 25% (experimental development), plus up to 15% for SMEs. Previous year: deadline 27 Feb 2025. The next call is probably early
+   2027 (estimate).
+4. **BayTOU and "Start?Zuschuss!"** Bavarian programmes for technology-oriented startups; named in search results, not checked.
+
+**Federal**
+
+5. **ZIM (Zentrales Innovationsprogramm Mittelstand), application stop per a search result.** ZIM stands for "Zentrales Innovationsprogramm Mittelstand" (Central Innovation Programme for
+   SMEs), the federal R&D funding programme for small and medium-sized companies. Individual projects: eligible costs up to **€690,000**, funding rate **25 to 45%**; freelancers are
+   eligible. Status per a search summary (not confirmed on the original page): an application stop since about July 2026, with a lifting aimed for early 2027. The ZIM website (zim.de)
+   blocks automated access.
+
+**Possibilities for a closer look: 1** (with a project partner). **Mark for later: 3** (next BayVFP call, early 2027) and **5** (once the ZIM application stop ends).
+
+**Note: you can submit your own idea.** Only within the continuously open programmes (1, 2); BayVFP and ZIM have fixed calls or application rules.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -398,4 +456,6 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | CIHBw Pitch | laufend / rolling | jederzeit / any time | keine / none | Webseite im November 2026 erneut prüfen / recheck the site in Nov 2026 | Suche / search |
 | Digital Europe Cyber-Aufrufe (ECCC) / Cyber calls | jährlich / yearly | 01.09.2026 | 14.01.2027 | ab 01.09.2027 | gelesen / read (2026–27) |
 | EU-Portal Horizon-Themen / Horizon topics | laufend, viele Fristen / continuous, many deadlines | jederzeit / any time | z. B. 28.10.2026, 02.02.2027, 18.03.2027, 15.09.2027 | monatlich über die Portal-Suche / monthly via the portal search | gelesen / read |
+| BayVFP Digitalisierung (Bayern) | jährlich / yearly | Aufruf vor der Infoveranstaltung (März 2026) / call before the info event (Mar 2026) | Skizzen 27.02.2025; 16.04.2026 | ab 01.01.2027 | Suche / search; nächster Termin Schätzung / next date estimate |
+| ZIM | Antragsstopp seit ca. Juli 2026; Aufhebung Anfang 2027 angestrebt / application stop since about July 2026; lifting aimed early 2027 | — | — | monatlich ab Dezember 2026 auf zim.de oder über die IHK / monthly from Dec 2026 on zim.de or via the IHK | Suche / search (unbestätigt / unconfirmed) |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
