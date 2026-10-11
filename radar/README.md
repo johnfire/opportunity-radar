@@ -16,7 +16,7 @@ A desktop notification (`notify-send`) summarises the run.
 | Group | When | Sources |
 |---|---|---|
 | weekly | Saturday 08:00 | koinno, eu_portal, ted |
-| twice-monthly | 1st and 15th, 08:00 | bmftr, service_bund (SPRIND and Prototype Fund page watches still to come) |
+| twice-monthly | 1st and 15th, 08:00 | bmftr, service_bund, sprind (Prototype Fund page watch still to come) |
 
 ```bash
 systemd/install_timers.sh                   # weekly only
