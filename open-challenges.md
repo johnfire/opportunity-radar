@@ -1,9 +1,10 @@
-# EXECTUTIVE BRIEF
+# EXECUTIVE BRIEF
 
 ## Open Challenges / Offene Challenges
 
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
+Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Beratung) und nutzen KI, wo sie passt; es geht nicht nur um KI. / Scope: we solve problems of all kinds (software, hardware, data processing, consulting) and use AI where it fits; it is not only about AI.
 
 ## Aufrufe mit genanntem Problem und Förderung / Calls with a stated problem and a grant
 
@@ -14,7 +15,7 @@ Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per w
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
 4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet
 
 ---
 
@@ -570,6 +571,19 @@ Geprüft / Checked 11.10.2026: TED (336 deutsche Bekanntmachungen mit Frist nach
 5. **Technische Hochschule Würzburg-Schweinfurt: Schulungsdienstleistung „Einsatz von Künstlicher Intelligenz“.** Kein Wert genannt. Frist: **12.10.2026** (morgen).
 6. **Bundesamt für Strahlenschutz: „Stand von Wissenschaft und Technik von künstlicher Intelligenz“** (Studie). Kein Wert genannt. Frist: **15.10.2026.**
 
+**Weitere Ausschreibungen: Software, Daten, Hardware (breitere Suche, 11.10.2026)**
+
+7. **Stadt Bamberg: Smart City „MoMM-App“.** Konzeption, Entwicklung, Bereitstellung und Betrieb einer neuen mobilen Anwendung (Mittel aus „Modellprojekte Smart Cities“). Kein Wert genannt. Frist: **16.10.2026.**
+8. **DAK-Gesundheit: App zum Training von Kognition und Sprache bei neurologischen Erkrankungen** (zwei Bekanntmachungen). Kein Wert genannt. Fristen: **26.10.2026** und **29.10.2026.**
+9. **TMB Tourismus-Marketing Brandenburg: landesweites touristisches Datenmanagementsystem** (Bereitstellung, Anpassung, Betrieb, Weiterentwicklung; nennt auch die EU-KI-Verordnung). Kein Wert genannt. Frist: **22.10.2026.**
+10. **Land Schleswig-Holstein: Entwicklungsauftrag LibreOffice** (Weiterentwicklung für den digital souveränen Verwaltungsarbeitsplatz). Kein Wert genannt. Frist: **30.10.2026.**
+11. **Eisenbahn-Bundesamt (DZSF): Forschungsprojekt „Automatische Zugerfassung“, Pilotmessnetz** (Messstationen und Daten zu Zugbewegungen auf Hauptstrecken). Geschätzter Wert **353.969 €.** Frist: **11.11.2026.**
+12. **Eisenbahn-Bundesamt (DZSF): „Bedingungen für die Inbetriebnahme fahrerloser Straßenbahnen“** (Handlungsrahmen, Studie). Geschätzter Wert **252.091 €.** Frist: **24.11.2026.**
+13. **Bund: „Digital Smart Regulations“ für den Arbeitsschutz** (forschungsbasierte Leistungen, digitale Lösungen für Technische Regeln). Kein Wert genannt. Frist: **15.10.2026.**
+14. **BIBB: Sekundärdatenanalyse von BA-Daten (SIAB/IEB)** zu Berufseinstieg und -verbleib in der Pflege (vierjähriger Forschungsauftrag). Kein Wert genannt. Frist: **15.10.2026.**
+
+**Möglichkeiten für einen genaueren Blick (erweitert): 1, 3, 6, 7 und 11.**
+
 **Möglichkeiten für einen genaueren Blick: 1, 3 und 6** (3 ist eine Markterkundung ohne Verpflichtung; bei 1 und 6 die Eignungsanforderungen lesen).
 
 **Hinweis: Eigene Idee einreichen.** Nein; man bietet auf veröffentlichte Aufträge. Neue Aufträge erscheinen täglich.
@@ -585,9 +599,55 @@ Geprüft / Checked 11.10.2026: TED (336 deutsche Bekanntmachungen mit Frist nach
 5. **Technical University of Würzburg-Schweinfurt: training service "Use of artificial intelligence".** No value stated. Deadline: **12 Oct 2026** (tomorrow).
 6. **Federal Office for Radiation Protection: "State of science and technology of artificial intelligence"** (study). No value stated. Deadline: **15 Oct 2026.**
 
+**More tenders: software, data, hardware (broader search, 11 Oct 2026)**
+
+7. **City of Bamberg: Smart City "MoMM app".** Concept, development, provision and operation of a new mobile application (funds from "Model Projects Smart Cities"). No value stated. Deadline: **16 Oct 2026.**
+8. **DAK-Gesundheit: app for training cognition and language in neurological conditions** (two notices). No value stated. Deadlines: **26 Oct 2026** and **29 Oct 2026.**
+9. **TMB Tourism Marketing Brandenburg: state-wide tourism data management system** (provision, customising, operation, development; also mentions the EU AI Act). No value stated. Deadline: **22 Oct 2026.**
+10. **State of Schleswig-Holstein: development contract for LibreOffice** (further development for the digitally sovereign office workplace). No value stated. Deadline: **30 Oct 2026.**
+11. **Federal Railway Authority (DZSF): research project "Automatic train detection", pilot measurement network** (measurement stations and data on train movements on main lines). Estimated value **€353,969.** Deadline: **11 Nov 2026.**
+12. **Federal Railway Authority (DZSF): "Conditions for putting driverless trams into service"** (framework for approval, study). Estimated value **€252,091.** Deadline: **24 Nov 2026.**
+13. **Federal government: "Digital Smart Regulations" for occupational safety** (research-based services, digital solutions for technical rules). No value stated. Deadline: **15 Oct 2026.**
+14. **BIBB: secondary data analysis of employment-agency data (SIAB/IEB)** on career entry and retention in nursing (four-year research contract). No value stated. Deadline: **15 Oct 2026.**
+
+**Possibilities for a closer look (extended): 1, 3, 6, 7 and 11.**
+
 **Possibilities for a closer look: 1, 3 and 6** (3 is a market sounding with no obligation; for 1 and 6 read the suitability requirements).
 
 **Note: you can submit your own idea.** No; you bid on published contracts. New ones appear daily.
+
+
+---
+
+# 12. Eurostars, Innowwide und NLnet / Eurostars, Innowwide and NLnet
+
+Quellen / Sources: https://www.eurekanetwork.org · Eurostars-Programmseiten (Zweitquellen) / Eurostars programme pages (secondary sources) · https://nlnet.nl/propose/
+
+## Deutsch
+
+1. **Eurostars, Aufruf 12.** Öffnet **17.12.2026**, Frist **04.03.2027.** Von KMU geführte internationale Forschungs- und Entwicklungsprojekte (Konsortium aus mindestens zwei unabhängigen Partnern aus mindestens zwei
+   Eurostars-Ländern, nur zivile Anwendungen, bis 36 Monate). Deutsche Teilnehmer werden vom BMFTR gefördert, nach Zweitquellen bis zu etwa **500.000 €** je Projekt. Zwei Aufrufe pro Jahr (März und September).
+2. **Eureka Innowwide, Aufruf 5.** Frist **01.12.2026, 14:00 MEZ.** Bis zu 70 Projekte, höchstens **60.000 €** Zuschuss bei 70 % Förderquote, zur Erkundung neuer Märkte in Afrika, Amerika, Asien oder Ozeanien mit einem
+   unabhängigen Partner vor Ort. **Bedingung: Das Unternehmen muss am oder vor dem 01.12.2024 gegründet worden sein**; Ihre Firma „Rehm KI Consulting“ besteht seit dem 01.10.2026. Ob eine ältere Rechtsform zählt, ist offen.
+3. **NLnet, drei Fonds (Restack, CodeSupply, offener Aufruf).** Gemeinsame Frist **03.11.2026, 12:00 MEZ**; erste Zuschüsse **5.000 bis 50.000 €**; Open-Source-Lizenz Pflicht. Die Wiederholung der Fristen steht nicht auf der Seite. Die
+   Seite lehnt KI-generierte Projekte und Vorschläge ab.
+
+**Möglichkeiten für einen genaueren Blick: keine jetzt.** Zum Vormerken: 1 (Aufruf 12 mit Konsortium aus zwei Ländern).
+
+**Hinweis: Eigene Idee einreichen.** Ja bei Eurostars und NLnet, jeweils im Rahmen der Aufrufe und Fristen.
+
+## English
+
+1. **Eurostars, call 12.** Opens **17 Dec 2026**, deadline **4 Mar 2027.** SME-led international R&D projects (a consortium of at least two independent partners from at least two Eurostars countries, civilian
+   applications only, up to 36 months). German participants are funded by the BMFTR, per secondary sources up to about **€500,000** per project. Two calls a year (March and September).
+2. **Eureka Innowwide, call 5.** Deadline **1 Dec 2026, 14:00 CET.** Up to 70 projects, at most **€60,000** in grants at a 70% rate, to explore new markets in Africa, the Americas, Asia or Oceania with an independent
+   partner on site. **Condition: the company must have been founded on or before 1 Dec 2024**; your business "Rehm KI Consulting" has existed since 1 Oct 2026. Whether an older legal form counts is open.
+3. **NLnet, three funds (Restack, CodeSupply, open call).** Shared deadline **3 Nov 2026, 12:00 CET**; first grants **€5,000 to 50,000**; an open-source licence is required. How often deadlines recur is not stated on the
+   page. The page rejects AI-generated projects and proposals.
+
+**Possibilities for a closer look: none now.** To mark for later: 1 (call 12, with a consortium from two countries).
+
+**Note: you can submit your own idea.** Yes at Eurostars and NLnet, within their calls and deadlines.
 
 ---
 
@@ -626,4 +686,6 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | KMU-innovativ IKT (BMFTR) | bisher regelmäßige Skizzentermine / sketch dates so far | — | 15.04.2026 | ab 01.03.2027 auf Nachfolge prüfen / check for a successor from 1 Mar 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
 | IPCEI KI (BMWE) | einmaliges Verfahren / one-off process | — | Interessenbekundung 21.01.2026 / expression of interest 21 Jan 2026 | monatlich auf Verfahrensstand prüfen / check the process stage monthly | Suche / search |
 | Ausschreibungen (TED, service.bund.de) / Tenders | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich (TED-Suche und service.bund.de-Newsletter) / weekly (TED search and the service.bund.de newsletter) | gelesen / read |
+| Eurostars (EUREKA) | zweimal jährlich / twice a year | 17.12.2026 (Aufruf 12) | 04.03.2027; danach September 2027 (Datum offen) / then Sept 2027 (date open) | ab 01.12.2026; erneut ab 01.06.2027 | gelesen / read (Zweitquelle / secondary) |
+| Eureka Innowwide | wiederkehrende Aufrufe (Aufruf 5) / recurring calls (call 5) | Herbst 2026 | 01.12.2026, 14:00 MEZ | ab Oktober 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
