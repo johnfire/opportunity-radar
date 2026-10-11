@@ -1,8 +1,15 @@
-# SPRIND — Offene Möglichkeiten / Open opportunities
+# Open Challenges / Offene Challenges
 
-Stand: 11.10.2026 / Status: 11 Oct 2026 · Quelle / Source: https://www.sprind.org/en/challenges
+Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
+Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
+
+**Abschnitte / Sections:** 1. SPRIND
 
 ---
+
+# 1. SPRIND
+
+Quelle / Source: https://www.sprind.org/en/challenges
 
 ## Deutsch
 
@@ -21,12 +28,13 @@ Stand: 11.10.2026 / Status: 11 Oct 2026 · Quelle / Source: https://www.sprind.o
    **Bis 3,275 Mio. €** in drei Stufen (545.000 + 1,05 Mio. + 1,68 Mio. €). Letzter Tag: **09.11.2026, 12:00 MEZ.**
 5. **Engineering Microbial Consortia.** Kreislauf-gerechte Biofertigung mit mikrobiellen Gemeinschaften, gesteuert durch KI.
    **Bis 4,3 Mio. €** in drei Stufen (1,2 + 1,3 + 1,8 Mio. €), dazu gemeinsame Dienste. Letzter Tag: **16.11.2026, 11:00 MEZ.**
-6. **Eigene Projektidee einreichen.** Jederzeit über ein Online-Formular (https://sprind.org/en/actions/your-project) für echte
-   Durchbrüche; Prüfung im Schnitt zwölf Wochen. Fördersummen sind nicht angegeben. Keine Frist.
 
 **Möglichkeiten für einen genaueren Blick: 1, 3 und 4** (AI-Native Chip Design, Next Frontier Robotics, Measuring with Entanglement).
 
----
+**Hinweis: Eigene Idee einreichen.** Man kann jederzeit eine eigene Projektidee über ein Online-Formular einreichen
+(https://sprind.org/en/actions/your-project). Keine Frist. Gesucht sind echte Durchbrüche, keine schrittweisen Verbesserungen.
+Bis Ende Dezember 2025 gingen rund 2.500 Einreichungen ein; weniger als zehn Prozent wurden unterstützt. Die Prüfung dauert im
+Schnitt zwölf Wochen. Die Einreichung ist kein förmlicher Antrag. Fördersummen sind nicht angegeben.
 
 ## English
 
@@ -44,7 +52,10 @@ Stand: 11.10.2026 / Status: 11 Oct 2026 · Quelle / Source: https://www.sprind.o
    in three stages (€545,000 + €1.05M + €1.68M). Last day: **9 Nov 2026, 12:00 CET.**
 5. **Engineering Microbial Consortia.** Circular biomanufacturing with microbial communities, steered by AI. **Up to €4.3M** in
    three stages (€1.2M + €1.3M + €1.8M), plus shared services. Last day: **16 Nov 2026, 11:00 CET.**
-6. **Submit your own project idea.** Any time through an online form (https://sprind.org/en/actions/your-project) for genuine
-   breakthroughs; review takes about twelve weeks on average. Funding amounts are not stated. No deadline.
 
 **Possibilities for a closer look: 1, 3 and 4** (AI-Native Chip Design, Next Frontier Robotics, Measuring with Entanglement).
+
+**Note: you can submit your own idea.** A project idea can be submitted at any time through an online form
+(https://sprind.org/en/actions/your-project). No deadline. SPRIND looks for genuine breakthroughs, not incremental improvements.
+About 2,500 ideas were submitted by the end of December 2025, and fewer than ten percent were supported. Review takes about
+twelve weeks on average. A submission is not a formal application. Funding amounts are not stated.

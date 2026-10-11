@@ -16,7 +16,7 @@ Supporting documents:
 | `business-ideas-list.md` | Nine online-business ideas with AI as a necessary part |
 | `koinno-open-challenges.md` | Bilingual (EN/DE) list of the 5 open KOINNOvationsplatz challenges, English first, with a recommendation (look at the Beihilfe app, ignore the other four) |
 | `koinno-open-challenges-de-en.md` | Same document, German first |
-| `sprind-open-challenges-de-en.md` | One-page German-first summary of the open SPRIND opportunities (5 challenges plus the own-idea route) with the shortlist 1, 3, 4. Detailed earlier version: git commit f6553e2 |
+| `open-challenges.md` | **Master list** of open calls, one section per website (German first, English second), each with a shortlist. Section 1: SPRIND. Detailed earlier SPRIND version: git commit f6553e2 |
 | `pilot-shortlist.md` | Six Augsburg-area firms as candidates for the first process-analysis pilot (not researched) |
 
 Outside this repository: `~/Projects/koinno-beihilfe/` (draft response to the LBV Beihilfe-App market sounding, due Mon 12 Oct),
