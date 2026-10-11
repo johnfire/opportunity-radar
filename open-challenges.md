@@ -15,7 +15,7 @@ Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Be
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
 4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern
 
 ---
 
@@ -675,6 +675,47 @@ Quelle / Source: https://www.dtvp.de
   Taking part in tenders is free in every edition. **Caution:** the trial turns into a paid subscription (annual invoice) unless you cancel **in writing by email to bieter@dtvp.de** before it ends.
 - **Chosen category:** CPV 72000000-5 (IT services: consulting, software development, internet and support). More categories (research and development, engineering services, business consulting) can be added later.
 
+
+---
+
+# 14. Vergabe Bayern (vergabe.bayern)
+
+Quelle / Source: https://www.vergabe.bayern.de/veroeffentlichungen/auftragsbekanntmachungen/index.html (öffentliche Liste, kein Login nötig / public list, no login needed; 11.10.2026)
+
+## Deutsch
+
+**Derzeit nichts passend.** Die Plattform des Freistaats veröffentlicht die Bekanntmachungen der Staatlichen Bauämter, der Wasserwirtschaft, der Ämter für Ländliche Entwicklung und vieler Kommunen. Es waren **366 aktuelle Bekanntmachungen** sichtbar, fast alle
+Bau- und Tiefbauleistungen. Die Liste zeigt das Veröffentlichungsdatum; die Angebotsfrist steht erst in den Details. Die Suche über das Stichwortfeld (Teilwörter) fand für Software, Daten und Beratung nur:
+
+1. **Stadt Regensburg:** Wartung und Support der Software Tenfold; Citrix-Lizenzverlängerung; Clearswift Secure Email Gateway (Wartung und Lizenzen).
+2. **Münchner Wohnen:** Zscaler-Mietlizenzen (Rahmenvereinbarung).
+3. **Landratsamt Aichach-Friedberg:** Beschaffung von 342 iPads und 110 MacBooks.
+4. **Staatliches Bauamt Augsburg:** Generalplanung Sanierung Rechenzentrum.
+5. **Stadt Fürth:** Versicherungsberatung (Rahmenvereinbarung).
+
+Keine Entwicklung, keine KI-, Daten- oder Beratungsleistung im Sinne unserer Arbeit.
+
+**Möglichkeiten für einen genaueren Blick: keine.** Für IT, Software und Daten sind TED und service.bund.de (Abschnitt 11) ergiebiger; die Bayerischen Bekanntmachungen erscheinen teils auch dort.
+
+**Hinweis: Eigene Idee einreichen.** Nein. Ein Login wird nur zum Laden der Unterlagen und zur Angebotsabgabe gebraucht.
+
+## English
+
+**Nothing suitable right now.** The state's platform publishes notices from the Bavarian State Building Offices, water management, rural development offices and many municipalities. **366 current notices** were visible, almost all construction and civil works.
+The list shows the publication date; the bid deadline is only in the details. Searching the keyword field (partial words) for software, data and consulting found only:
+
+1. **City of Regensburg:** maintenance and support of the Tenfold software; Citrix licence renewal; Clearswift secure email gateway (maintenance and licences).
+2. **Münchner Wohnen:** Zscaler rental licences (framework agreement).
+3. **District office Aichach-Friedberg:** procurement of 342 iPads and 110 MacBooks.
+4. **State Building Office Augsburg:** general planning for the renovation of a data centre.
+5. **City of Fürth:** insurance consulting (framework agreement).
+
+No development, no AI, data or consulting work of the kind we do.
+
+**Possibilities for a closer look: none.** For IT, software and data, TED and service.bund.de (section 11) are more productive; some Bavarian notices also appear there.
+
+**Note: you can submit your own idea.** No. A login is only needed to download documents and submit bids.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -714,4 +755,5 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Ausschreibungen (TED, service.bund.de) / Tenders | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich (TED-Suche und service.bund.de-Newsletter) / weekly (TED search and the service.bund.de newsletter) | gelesen / read |
 | Eurostars (EUREKA) | zweimal jährlich / twice a year | 17.12.2026 (Aufruf 12) | 04.03.2027; danach September 2027 (Datum offen) / then Sept 2027 (date open) | ab 01.12.2026; erneut ab 01.06.2027 | gelesen / read (Zweitquelle / secondary) |
 | Eureka Innowwide | wiederkehrende Aufrufe (Aufruf 5) / recurring calls (call 5) | Herbst 2026 | 01.12.2026, 14:00 MEZ | ab Oktober 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
+| Vergabe Bayern (öffentliche Liste) / public list | täglich neu, überwiegend Bau / new daily, mostly construction | laufend / continuous | je Bekanntmachung / per notice | monatlich mit Stichworten (Software, Daten, Digital, App) / monthly with keywords | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
