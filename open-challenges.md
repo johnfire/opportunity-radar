@@ -275,3 +275,32 @@ HEDI-Hackathon 2026; der Frühjahrs-Hackathon hatte das Thema „Luftraumverteid
 spring hackathon's theme was airspace defence).
 
 **Note: you can submit your own idea.** No route found. EDA's procurement page was not reachable and was not checked.
+
+---
+
+# Kalender wiederkehrender Termine / Calendar of recurring dates
+
+Stand / Status: 11.10.2026. Spalte „Basis“: **gelesen** = auf der Seite gelesen; **Suche** = aus Suchergebnissen oder Nachrichten, nicht auf der
+Originalseite bestätigt; **Schätzung** = Muster aus wenigen Beobachtungen, kein angekündigter Termin. / Column "Basis": **read** = read on the
+page; **search** = from search results or news, not confirmed on the original page; **estimate** = pattern from few observations, not an announced date.
+Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
+
+| Quelle / Source | Rhythmus / Cycle | Öffnet / Opens | Schließt / Closes | Wann prüfen / When to check | Basis |
+|---|---|---|---|---|---|
+| NATO DIANA, Jahresaufruf / annual call | jährlich / yearly | Juni 2026 | 03.07.2026 (Aufruf 2027); 11.07.2025 (Vorjahr) | ab 01.06.2027 | gelesen / read (2026); Suche / search (2025) |
+| NATO DIANA, dynamische Challenges / dynamic | unregelmäßig / irregular | jederzeit / any time | z. B. 05.05.2026 | monatlich / monthly | gelesen / read |
+| Cyberagentur Challenges (SPECTRA, MARLIN) | etwa jährlich / about yearly | 25.08.2025; 11.05.2026 | 02.07.2026 (MARLIN) | vierteljährlich: 01.02., 01.05., 01.08., 01.11. | Suche / search; Rhythmus Schätzung / cycle estimate |
+| EU-Verteidigungsfonds KMU-Aufrufe / EDF SME calls | jährlich / yearly | nicht geprüft / not checked | 29.09.2026, 17:00 Brüssel | März (Info-Tag) und ab Juni / March (info day) and from June | gelesen / read (2026) |
+| EUDIS Business Accelerator | zweimal jährlich / twice a year | 16.12.2025; Mai 2026 | 25.01.2026; Juni 2026 | ab 01.12.2026 und ab 01.05.2027 | Suche / search; nächste Termine Schätzung / next dates estimate |
+| EIC Accelerator, Vollantrag-Stichtage / full-application cut-offs | alle 2–3 Monate / every 2–3 months | Kurzantrag jederzeit; Auswertung am ersten Dienstag im Monat / short proposal any time, evaluated first Tuesday of the month | 2026: 07.01., 04.03., 06.05., 08.07., 02.09., 04.11.; 2027: erster 03.02. | Kurzantrag jederzeit; Ziel 03.02.2027 / short proposal any time; target 3 Feb 2027 | gelesen / read (2026); Suche / search (2027) |
+| EIC STEP Scale Up | Stichtage / cut-offs | — | 2026: 11.02., 06.05., 09.09., 25.11. | derzeit nicht relevant / not relevant now | gelesen / read |
+| Eurostars | zweimal jährlich / twice a year | — | 19.03.2026; 10.09.2026 | Februar 2027 | Suche / search; nächster Termin Schätzung / next date estimate |
+| Prototype Fund | jährlicher Jahrgang / yearly cohort | Jahrgang 01: 11.11.2024 | Jahrgang 03: 30.11.2026, 15:00 MEZ | ab 01.10.2027 | gelesen / read (2026); Suche / search (2024) |
+| NLnet | wiederkehrend, etwa alle zwei Monate / recurring, about every two months | — | 03.11.2026, 12:00 MEZ | am 04.11.2026 den nächsten Termin ablesen / read the next date on 4 Nov 2026 | gelesen / read (nächster Termin); Rhythmus allgemeines Wissen / cycle general knowledge |
+| SPRIND Challenges | unregelmäßig / irregular | — | 16.10., 22.10., 09.11., 16.11., 30.11.2026 | monatlich / monthly | gelesen / read |
+| KOINNOvationsplatz | laufend; jede Challenge 4–7 Wochen / continuous; each 4–7 weeks | jederzeit / any day | je nach Challenge / varies | wöchentlich (öffentlicher JSON-Feed) / weekly (public JSON feed) | gelesen / read |
+| Digitalbonus Bayern | monatliche Kontingente; Programm bis 31.12.2027 / monthly quotas; programme to 31 Dec 2027 | monatlich / monthly | bis Kontingent aufgebraucht (nicht angegeben) / until quota used (not stated) | am Monatsanfang / start of each month | gelesen / read |
+| BAFA Förderung unternehmerischen Know-hows | Richtlinie endet 31.12.2026 / guideline ends 31 Dec 2026 | — | 31.12.2026 | November und Dezember 2026 auf Nachfolger prüfen / check for a successor Nov–Dec 2026 | Suche / search |
+| BayStartUP Wettbewerbe 2027 / competitions | jährliche Saison / yearly season | Voranmeldung offen / pre-registration open | nicht angegeben / not stated | Januar 2027 | gelesen / read |
+| CIHBw Pitch | laufend / rolling | jederzeit / any time | keine / none | Webseite im November 2026 erneut prüfen / recheck the site in Nov 2026 | Suche / search |
+| Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
