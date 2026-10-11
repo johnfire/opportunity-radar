@@ -56,7 +56,7 @@ product already in use, not custom development, and says taking part has no effe
 response. Our draft says plainly that we have no existing product and offers an on-premise AI document-understanding approach
 plus tender advice.
 Link: https://app.koinnovationsplatz.de/challenges/6a8c7479f321e1a16eee0041
-Files: `/home/chris/Projects/koinno-beihilfe/` (draft `entwurf-einreichung.md`, `REVIEW-NOTES.md`, the two attachments).
+Files: `/home/chris/Projects/opportunity-radar/submitted/koinno-beihilfe/` (draft `entwurf-einreichung.md`, `REVIEW-NOTES.md`, the two attachments).
 
 ### 3. Recoding Medicine — 16 Oct 18:00 CET — SPRIND — skip
 A SPRIND challenge with three stages (€480k, €455k, €550k; 12, 12 and 6 months). Each team must bring at least one unique,

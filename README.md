@@ -19,9 +19,11 @@ Supporting documents:
 | `koinno-open-challenges.md` | Bilingual (EN/DE) list of the 5 open KOINNOvationsplatz challenges, English first, with a recommendation (look at the Beihilfe app, ignore the other four) |
 | `koinno-open-challenges-de-en.md` | Same document, German first |
 | `open-challenges.md` | **Master list** of open calls, one section per website (German first, English second), each with a shortlist. Sections: 1. SPRIND, 2. KOINNOvationsplatz, 3. CIHBw and Cyberagentur, 4. NATO DIANA, 5. EDA and EU defence innovation, 6. EIC, 7. EU Funding & Tenders Portal, 8. German funding programmes (Bavaria, ZIM), 9. Behzad's programmes, 10. Federal funding, 11. Tenders (TED, service.bund.de), 12. Eurostars, Innowwide, NLnet, 13. DTVP (registration problem), 14. Vergabe Bayern (nothing suitable), 15. evergabe-online, 16. Prototype Fund, 17. BMFTR, 18. oeffentlichevergabe.de (the national notice portal, many IT tenders); an appendix lists sources we are not pursuing; plus; a short list of calls with a stated problem and a grant sits at the very top a calendar of recurring dates at the end. Detailed earlier SPRIND version: git commit f6553e2 |
+| `open-issues.md` | Everything open: submit-by dates, sources the radar cannot read, decisions, work to do |
 | `pilot-shortlist.md` | Six Augsburg-area firms as candidates for the first process-analysis pilot (not researched) |
 
-Outside this repository: `~/Projects/koinno-beihilfe/` (draft response to the LBV Beihilfe-App market sounding, due Mon 12 Oct),
+`submitted/koinno-beihilfe/` holds what we submitted to the LBV Beihilfe-App market sounding (submitted 2026-10-11; German as sent plus an English reading copy).
+Outside this repository:
 `~/ppp2/process-analysis` (the product, own repo), `~/ai-workzone/rehm-consulting/businesses-from-daily-brief.md` (firm register).
 Also: Notes World "big ideas" entries and an Open Brain task-eval record.
 
@@ -40,14 +42,8 @@ The "twice-monthly" group (1st and 15th) reads BMFTR announcements, service.bund
 - Process X-ray: run a first real pilot with a hybrid pricing approach.
 - Organize the system before working on individual cases.
 
-## Open decisions
-1. Beihilfe-App response (due Mon 12 Oct): submit or not; company name, bracketed items, optional commitments
-   (see `../koinno-beihilfe/REVIEW-NOTES.md`).
-2. SPRIND AI-Native Chip Design (30 Nov): go or no-go, and who would be on the team.
-3. Which Augsburg professors and fields, for BayVFP or SPRIND.
-4. Research the top three pilot firms?
-5. The pen-testing benchmark protocol (not written).
-6. Whether to move `koinno-beihilfe/` into this repository.
+## Open issues
+See `open-issues.md`: submit-by dates, sources the radar cannot read, decisions waiting on Chris, work to do.
 
 ## To do next, once the system is settled
 - Refresh dates in `opportunities.md` (days left goes stale daily).

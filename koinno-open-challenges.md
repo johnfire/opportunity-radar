@@ -58,7 +58,7 @@ Link: https://app.koinnovationsplatz.de/challenges/6ab24230f321e1a16ef4f8e3
 ## Why look at the Beihilfe app
 - It is the only software challenge, and it is a document-understanding problem: photographing receipts and reading them
   reliably. That is where AI is needed.
-- Answering is free and non-binding, and a draft response already exists in `~/Projects/koinno-beihilfe/`.
+- Answering is free and non-binding, and a draft response already exists in `submitted/koinno-beihilfe/`.
 - **Caveat:** the buyer wants a product already in use, and we have none yet. Odds of becoming a supplier are low. The value is
   visibility and practice.
 
@@ -129,7 +129,7 @@ Link: https://app.koinnovationsplatz.de/challenges/6ab24230f321e1a16ef4f8e3
 ## Warum die Beihilfe-App ansehen
 - Sie ist die einzige Software-Challenge, und es geht um Dokumentenverständnis: Belege fotografieren und zuverlässig auslesen. Hier
   wird KI gebraucht.
-- Die Antwort ist kostenlos und unverbindlich, und ein Entwurf liegt bereits in `~/Projects/koinno-beihilfe/`.
+- Die Antwort ist kostenlos und unverbindlich, und ein Entwurf liegt bereits in `submitted/koinno-beihilfe/`.
 - **Einschränkung:** Der Auftraggeber möchte ein bereits im Einsatz befindliches Produkt, und wir haben noch keines. Die Chancen,
   Lieferant zu werden, sind gering. Der Nutzen liegt in Sichtbarkeit und Übung.
 
