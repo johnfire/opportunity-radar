@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC
 
 ---
 
@@ -275,6 +275,46 @@ HEDI-Hackathon 2026; der Frühjahrs-Hackathon hatte das Thema „Luftraumverteid
 spring hackathon's theme was airspace defence).
 
 **Note: you can submit your own idea.** No route found. EDA's procurement page was not reachable and was not checked.
+
+
+---
+
+# 6. EIC (Europäischer Innovationsrat / European Innovation Council)
+
+Quelle / Source: https://eic.ec.europa.eu/eic-funding-opportunities_en
+
+## Deutsch
+
+**EIC Accelerator: laufend offen, aber erst ab TRL 6 sinnvoll**
+
+1. **EIC Accelerator.** Zuschuss unter **2,5 Mio. €** plus Beteiligung (Eigenkapital) von **1 bis 10 Mio. €** für einzelne Startups und KMU mit Technologie
+   auf Reifegrad TRL 6 bis 8. Auch Einzelpersonen, die ein KMU gründen wollen, sind als antragsberechtigt genannt. Ablauf: Kurzantrag jederzeit
+   (Auswertung am ersten Dienstag jedes Monats, Ergebnis nach etwa 4 bis 6 Wochen), danach Vollantrag zu einem Stichtag und ein Interview mit einer
+   Jury. Stichtage 2026: 07.01., 04.03., 06.05., 08.07., 02.09., **04.11.** (17:00 Brüsseler Zeit); laut einer Zweitquelle der erste Stichtag 2027:
+   03.02.2027.
+2. **STEP Scale Up.** Große Investitionen für wachsende Unternehmen; Stichtage 2026: 11.02., 06.05., 09.09., 25.11. Für Ihre Phase nicht relevant.
+3. **Weitere EIC-Instrumente** (Pathfinder, Transition, Advanced Innovation Challenges, Pre-Accelerator): vorhanden; Beträge und Fristen standen nicht
+   auf der Übersichtsseite und wurden nicht geprüft.
+
+**Möglichkeiten für einen genaueren Blick: keine jetzt; später beobachten** (setzt einen Prototyp auf TRL 6 bis 8 voraus).
+
+**Hinweis: Eigene Idee einreichen.** Ja: Der Kurzantrag kann jederzeit eingereicht werden.
+
+## English
+
+**EIC Accelerator: always open, but only sensible from TRL 6**
+
+1. **EIC Accelerator.** A grant under **€2.5M** plus an equity investment of **€1 to 10M** for single startups and SMEs with technology at readiness
+   level TRL 6 to 8. Individuals intending to launch an SME are also named as eligible. Process: a short proposal at any time (evaluated on the
+   first Tuesday of each month, result after about 4 to 6 weeks), then a full application at a cut-off date and an interview with a jury. 2026
+   cut-offs: 7 Jan, 4 Mar, 6 May, 8 Jul, 2 Sep, **4 Nov** (17:00 Brussels time); per a secondary source the first 2027 cut-off is 3 Feb 2027.
+2. **STEP Scale Up.** Large investments for growing companies; 2026 cut-offs: 11 Feb, 6 May, 9 Sep, 25 Nov. Not relevant at your stage.
+3. **Other EIC instruments** (Pathfinder, Transition, Advanced Innovation Challenges, Pre-Accelerator): they exist; amounts and deadlines were not
+   on the overview page and were not checked.
+
+**Possibilities for a closer look: none now; watch for later** (it assumes a prototype at TRL 6 to 8).
+
+**Note: you can submit your own idea.** Yes: the short proposal can be submitted at any time.
 
 ---
 
