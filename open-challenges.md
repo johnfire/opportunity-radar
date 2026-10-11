@@ -1,9 +1,11 @@
-# Open Challenges / Offene Challenges
+# EXECTUTIVE BRIEF
+
+## Open Challenges / Offene Challenges
 
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme
 
 ---
 
@@ -427,6 +429,63 @@ Quellen / Sources: Bayern Innovativ, Bayerische Forschungsstiftung, Digitalbonus
 
 **Note: you can submit your own idea.** Only within the continuously open programmes (1, 2); BayVFP and ZIM have fixed calls or application rules.
 
+
+---
+
+# 9. Behzads Programme (Startup-Netzwerke und Unternehmensprogramme) / Behzad's programmes (startup networks and corporate programmes)
+
+Quellen / Sources: UnternehmerTUM, DB mindbox, Flämingo, BMW Startup Garage, GovTecHH, BayStartUP, Bosch Startup Harbour, de:hub, GovTech Deutschland, appliedAI, Practical AI Act (je Webseite / per website)
+Hinweis / Note: Keines dieser Programme nennt eine Vergütung für Bewerbungen. / None of these programmes pays for applying.
+
+## Deutsch
+
+**Offen oder laufend**
+
+1. **UnternehmerTUM XPRENEURS Accelerator, Batch 21.** Drei Monate Vollzeit für Pre-Seed- und Seed-Startups mit technischer Innovation (unter anderem KI, Quanten, Deep Tech), meist B2B.
+   Ohne Beteiligung; die besten Teams können bis zu **250.000 €** über „UnternehmerTUM Funding for Innovators“ erhalten (nicht garantiert). Mindestens ein Gründer in Vollzeit, **Einzelgründer sind
+   nicht zugelassen**; eine Firma muss noch nicht existieren. Bewerbung (Kurzinfos, 2-Minuten-Video, Pitch-Deck bis 15 Folien) **Dezember 2026 bis Januar 2027** (genaue Daten nicht genannt);
+   Programm März bis Juni 2027.
+2. **Flämingo Accelerator, Kohorte 3 (DB mindbox).** Laut DB-mindbox-Seite Bewerbungsfrist **22.11.2026**. Frühere Kohorten: sechs Monate, ohne Beteiligung, für Mobilität und Logistik sowie IKT und
+   Kreativwirtschaft. Beträge und Teilnahmebedingungen für Kohorte 3 nicht bestätigt.
+3. **BMW Group Startup Garage.** Bewerbungsformular jederzeit; Bewertung dauert 4 bis 8 Wochen; vierMonats-Pilotprojekte ohne Beteiligung; BMW gibt an, dass über 50 % der Teilnehmer bezahlte
+   Folgeprojekte erhielten. Bewertet werden Prototyp-Reife, Team, Finanzierung. Vergütung der Piloten nicht genannt.
+4. **GovTecHH (Hamburg).** Idee für eine Zusammenarbeit jederzeit per E-Mail an startups@sk.hamburg.de; Pilotprojekte mit der Stadtverwaltung. Vergütung nicht genannt. Keine Frist.
+5. **BayStartUP Businessplan-Wettbewerbe 2027.** Voranmeldung offen; vier Wettbewerbe (München, Nordbayern, Ideenreich, Schwaben); Preisgelder zusammen **85.000 €** (laut Seite); Schwaben nach einer
+   Suchquelle nur etwa 2.250 € insgesamt. Sitz oder Wohnsitz in Bayern, keine Firma nötig. Fristen für 2027 nicht gefunden.
+
+**Derzeit nichts offen**
+- **Bosch Startup Harbour:** Begleitung und Pilotprojekte für Startups; in früheren Jahren Bewerbungsschluss 15. Juni; für 2026 nichts bestätigt.
+- **de:hub, GovTech Deutschland:** Netzwerke, keine Aufrufe gefunden. **appliedAI Institute:** Kurse und Ressourcen; ein „Bavarian AI Accelerator“ wurde nicht gefunden.
+  **Practical AI Act:** Leitfaden zum EU-KI-Gesetz, kein Förderaufruf.
+
+**Möglichkeiten für einen genaueren Blick: 1, 4 und 5** (1 setzt ein Gründerteam voraus, nicht nur eine Person).
+
+**Hinweis: Eigene Idee einreichen.** Ja bei GovTecHH (E-Mail jederzeit) und BMW Startup Garage (Formular jederzeit); bei den Accelerator-Programmen nur zu den Bewerbungsfristen.
+
+## English
+
+**Open or rolling**
+
+1. **UnternehmerTUM XPRENEURS Accelerator, Batch 21.** Three months full-time for pre-seed and seed startups with a technological innovation (including AI, quantum, deep tech), mostly B2B.
+   Equity-free; top teams can get up to **€250,000** through "UnternehmerTUM Funding for Innovators" (not guaranteed). At least one full-time founder, **single founders are not allowed**;
+   a company need not exist yet. Application (basic info, 2-minute video, pitch deck up to 15 slides) **December 2026 to January 2027** (exact dates not stated); programme March to June 2027.
+2. **Flämingo Accelerator, cohort 3 (DB mindbox).** Per the DB mindbox page the application deadline is **22 Nov 2026**. Earlier cohorts: six months, equity-free, for mobility and logistics and
+   ICT and creative industries. Amounts and conditions for cohort 3 not confirmed.
+3. **BMW Group Startup Garage.** Application form at any time; assessment takes 4 to 8 weeks; four-month pilot projects without equity; BMW says over 50% of participants got paid follow-on
+   projects. They judge prototype maturity, team and funding. Pilot payment not stated.
+4. **GovTecHH (Hamburg).** Send an idea for cooperation at any time by email to startups@sk.hamburg.de; pilot projects with the city administration. Payment not stated. No deadline.
+5. **BayStartUP business-plan competitions 2027.** Pre-registration open; four competitions (Munich, Northern Bavaria, Ideenreich, Swabia); prize money **€85,000** in total (per the site);
+   Swabia only about €2,250 in total per one search source. Seat or residence in Bavaria, no company needed. 2027 deadlines not found.
+
+**Nothing open right now**
+- **Bosch Startup Harbour:** support and pilot projects for startups; in earlier years the application deadline was 15 June; nothing confirmed for 2026.
+- **de:hub, GovTech Deutschland:** networks, no calls found. **appliedAI Institute:** courses and resources; a "Bavarian AI Accelerator" was not found.
+  **Practical AI Act:** guide to the EU AI Act, not a funding call.
+
+**Possibilities for a closer look: 1, 4 and 5** (1 requires a founding team, not one person alone).
+
+**Note: you can submit your own idea.** Yes at GovTecHH (email any time) and BMW Startup Garage (form any time); for the accelerator programmes only at their application windows.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -458,4 +517,7 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | EU-Portal Horizon-Themen / Horizon topics | laufend, viele Fristen / continuous, many deadlines | jederzeit / any time | z. B. 28.10.2026, 02.02.2027, 18.03.2027, 15.09.2027 | monatlich über die Portal-Suche / monthly via the portal search | gelesen / read |
 | BayVFP Digitalisierung (Bayern) | jährlich / yearly | Aufruf vor der Infoveranstaltung (März 2026) / call before the info event (Mar 2026) | Skizzen 27.02.2025; 16.04.2026 | ab 01.01.2027 | Suche / search; nächster Termin Schätzung / next date estimate |
 | ZIM | Antragsstopp seit ca. Juli 2026; Aufhebung Anfang 2027 angestrebt / application stop since about July 2026; lifting aimed early 2027 | — | — | monatlich ab Dezember 2026 auf zim.de oder über die IHK / monthly from Dec 2026 on zim.de or via the IHK | Suche / search (unbestätigt / unconfirmed) |
+| UnternehmerTUM XPRENEURS Accelerator | mehrmals jährlich, Batches / several times a year, batches | Dez. 2026 (Batch 21) | Jan. 2027 (genaue Daten nicht genannt / exact dates not stated); Batch 20: Auswahl 03.–07.08.2026 | ab 01.12.2026 | gelesen / read |
+| Flämingo Accelerator (DB mindbox) | etwa zweimal jährlich / about twice a year | — | 21.09.2025; 29.03.2026; 22.11.2026 | Februar und August 2027 prüfen / check Feb and Aug 2027 | Suche / search; nächste Termine Schätzung / next dates estimate |
+| Bosch Startup Harbour | jährlich, Batches / yearly, batches | — | früher 15. Juni / earlier 15 June | ab Mai 2027 / from May 2027 | Suche / search (Jahr unbestätigt / year unconfirmed) |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
