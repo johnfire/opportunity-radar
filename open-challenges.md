@@ -5,7 +5,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung
 
 ---
 
@@ -486,6 +486,61 @@ Hinweis / Note: Keines dieser Programme nennt eine Vergütung für Bewerbungen. 
 
 **Note: you can submit your own idea.** Yes at GovTecHH (email any time) and BMW Startup Garage (form any time); for the accelerator programmes only at their application windows.
 
+
+---
+
+# 10. Bundesförderung / Federal funding (BMFTR, BMWE, DLR, KfW, BAFA, Förderdatenbank)
+
+Hinweis / Note: Alle Angaben stammen aus Suchergebnissen und nicht von den Originalseiten. Die Förderdatenbank (foerderdatenbank.de) und zim.de blockieren automatische Abrufe; die Seite
+des BMFTR mit den Bekanntmachungen wurde nicht gefunden; Projektträger Jülich wurde nicht geprüft. / All details come from search results, not the original pages. The Förderdatenbank
+(foerderdatenbank.de) and zim.de block automated access; the BMFTR page listing announcements was not found; Projektträger Jülich was not checked.
+
+## Deutsch
+
+**Laufend offen**
+
+1. **KfW ERP-Förderkredit Digitalisierung und Innovation (Darlehen, kein Zuschuss).** Für Gewerbetreibende, Einzelunternehmer und Freiberufler in Deutschland. Ab etwa **25.000 €**, bis **25 Mio. €**
+   je Vorhaben; Zinssatz laut Suchquelle **3,5 bis 5,2 %** (Stand Mai 2026); bis zu 3 tilgungsfreie Jahre, Laufzeit bis 10 Jahre. Finanziert werden unter anderem Hardware, Software, KI-Werkzeuge,
+   Cloud-Umzug, IT-Sicherheit und Schulung (bis 30 %). Antrag über die Hausbank **vor Projektbeginn.** Keine Frist.
+2. **BAFA Förderung unternehmerischen Know-hows (Beratungszuschuss).** 50 % von höchstens 3.500 € förderfähigen Beratungskosten in den alten Bundesländern; die Beratung muss durch einen vom BAFA zugelassenen
+   Berater erfolgen; die Richtlinie läuft bis 31.12.2026. Nachfolger unbekannt.
+
+**Derzeit nicht offen**
+
+3. **KMU-innovativ: Informations- und Kommunikationstechnologie (BMFTR).** Projektskizzen bis **15.04.2026**; danach laut Suchquelle keine neuen Skizzen im Technologiefeld Kommunikationssysteme und IT-Sicherheit.
+   Ob es einen neuen Termin gibt, ist unbekannt.
+4. **IPCEI KI (BMWE, europäisches Gemeinschaftsvorhaben für Künstliche Intelligenz).** Die Interessenbekundung endete am **21.01.2026**; die Förderrichtlinie wurde laut Suchquelle am 26.06.2026 bekannt
+   gemacht. Adressaten: Unternehmen, wissenschaftliche Einrichtungen, auch Mittelstand. Aktueller Verfahrensstand und Beträge unbekannt.
+5. **BMWE „Entwicklung digitaler Technologien“ (Projektträger DLR).** Förderung von KI-Methoden, Datentechnologien und digitaler Produktion; für Unternehmen bis zu 50 % der förderfähigen Kosten. Aktuelle Aufrufe
+   und Fristen unbekannt.
+
+**Möglichkeiten für einen genaueren Blick: keine offene Förderung.** Zum Vormerken: 4 (Fortgang beobachten), 3 (neuer Termin?). Für Finanzierung eigener Anschaffungen: 1.
+
+**Hinweis: Eigene Idee einreichen.** Nein; die Bundesprogramme haben feste Bekanntmachungen. Das Darlehen (1) wird über die Hausbank beantragt.
+
+## English
+
+**Continuously open**
+
+1. **KfW ERP promotional loan for digitalisation and innovation (a loan, not a grant).** For commercial businesses, sole proprietors and freelancers in Germany. From about **€25,000** up to
+   **€25M** per project; interest per a search source **3.5 to 5.2%** (as of May 2026); up to 3 repayment-free years, terms up to 10 years. Eligible: hardware, software, AI tools, cloud migration,
+   IT security and training (up to 30%). Applied for through your house bank **before the project starts.** No deadline.
+2. **BAFA subsidy for entrepreneurial know-how (consulting grant).** 50% of at most €3,500 in eligible consulting costs in the old federal states; the consulting must be done by a BAFA-approved
+   consultant; the guideline runs to 31 Dec 2026. Successor unknown.
+
+**Not open right now**
+
+3. **KMU-innovativ: information and communication technology (BMFTR).** Project sketches were due **15 April 2026**; afterwards, per a search source, no new sketches in the communication systems and
+   IT security technology field. Whether there is a new date is unknown.
+4. **IPCEI AI (BMWE, a joint European project for artificial intelligence).** The expression of interest ended on **21 Jan 2026**; the funding guideline was published on 26 June 2026 per a search
+   source. Aimed at companies and research institutions, including SMEs. Current stage and amounts unknown.
+5. **BMWE "Development of digital technologies" (project agency DLR).** Funds AI methods, data technologies and digital production; for companies up to 50% of eligible costs. Current calls and
+   deadlines unknown.
+
+**Possibilities for a closer look: none open as a grant.** To watch: 4 (progress), 3 (new date?). To finance your own purchases: 1.
+
+**Note: you can submit your own idea.** No; federal programmes have fixed announcements. The loan (1) is applied for through the house bank.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -520,4 +575,6 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | UnternehmerTUM XPRENEURS Accelerator | mehrmals jährlich, Batches / several times a year, batches | Dez. 2026 (Batch 21) | Jan. 2027 (genaue Daten nicht genannt / exact dates not stated); Batch 20: Auswahl 03.–07.08.2026 | ab 01.12.2026 | gelesen / read |
 | Flämingo Accelerator (DB mindbox) | etwa zweimal jährlich / about twice a year | — | 21.09.2025; 29.03.2026; 22.11.2026 | Februar und August 2027 prüfen / check Feb and Aug 2027 | Suche / search; nächste Termine Schätzung / next dates estimate |
 | Bosch Startup Harbour | jährlich, Batches / yearly, batches | — | früher 15. Juni / earlier 15 June | ab Mai 2027 / from May 2027 | Suche / search (Jahr unbestätigt / year unconfirmed) |
+| KMU-innovativ IKT (BMFTR) | bisher regelmäßige Skizzentermine / sketch dates so far | — | 15.04.2026 | ab 01.03.2027 auf Nachfolge prüfen / check for a successor from 1 Mar 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
+| IPCEI KI (BMWE) | einmaliges Verfahren / one-off process | — | Interessenbekundung 21.01.2026 / expression of interest 21 Jan 2026 | monatlich auf Verfahrensstand prüfen / check the process stage monthly | Suche / search |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
