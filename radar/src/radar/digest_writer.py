@@ -61,9 +61,14 @@ def next_digest_path(directory: Path, today: date, group: str) -> Path:
     return candidate
 
 
-def _sort_key(item: ScoredOpportunity) -> tuple[int, date]:
-    deadline = item.opportunity.deadline or date.max
-    return (-item.score, deadline)
+NO_FIT_RANK = 1.0  # items Jev did not judge sort after every judged item
+
+
+def _sort_key(item: ScoredOpportunity, fits: dict[str, FitJudgment]) -> tuple[float, int, date]:
+    """Most solvable first (Jev), then keyword score, then earliest deadline."""
+    fit = fits.get(item.opportunity.key)
+    solvable_rank = -fit.could_solve if fit else NO_FIT_RANK
+    return (solvable_rank, -item.score, item.opportunity.deadline or date.max)
 
 
 def _deadline_cell(item: ScoredOpportunity, today: date) -> str:
@@ -123,13 +128,20 @@ def _opportunity_table(
     if fits:
         columns.append("Jev: lösbar? / solvable?")
     header = ["| " + " | ".join(columns + ["Link"]) + " |", "|" + "---|" * (len(columns) + 1)]
-    return header + [_row(item, today, fits) for item in sorted(items, key=_sort_key)]
+    return header + [
+        _row(item, today, fits) for item in sorted(items, key=lambda item: _sort_key(item, fits))
+    ]
 
 
 def _new_section(digest: DigestInput) -> list[str]:
     lines = [f"## Neu seit dem letzten Lauf / New since the last run ({len(digest.new_items)})", ""]
     if not digest.new_items:
         return lines + ["Nichts Neues passt zu deinen Stichwörtern. / Nothing new matched your keywords.", ""]
+    if digest.fits:
+        lines += [
+            "Sortiert nach Jev-Wahrscheinlichkeit, dann Punkte / Sorted by Jev probability, then score.",
+            "",
+        ]
     return lines + _opportunity_table(digest.new_items, digest.context.today, digest.fits) + [""]
 
 

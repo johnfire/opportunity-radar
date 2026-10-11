@@ -1,5 +1,7 @@
 # Open issues
 
+**Plan (Chris, 2026-10-11):** nothing here is urgent this week. The SPRIND decisions, the pilot firms and the Prototype Fund thinking are all parked for **Saturday 17 Oct, 09:30** (calendar reminder created, with the 30-minute popup). Note that SPRIND Robotics closes Thu 22 Oct, five days after that review, so decide quickly or skip it.
+
 Last updated: Sunday 2026-10-11. This is the one list of things that are open, waiting, deferred or that the radar cannot do.
 Numbered so we can say "do 3". Remove an item when it is done and note it in the commit message.
 
@@ -11,7 +13,7 @@ Numbered so we can say "do 3". Remove an item when it is done and note it in the
 | SPRIND Measuring with Entanglement | Mon 9 Nov 2026 | Mon 2 Nov | Chris has a physics background; not decided |
 
 Other SPRIND calls (Recoding Medicine 16 Oct, Engineering Microbial Consortia 16 Nov) were judged a poor fit (medicine, biology).
-The radar lists all open SPRIND calls in every twice-monthly digest. A calendar reminder for each submit-by date has not been created (needs Chris's yes).
+The radar lists all open SPRIND calls in every twice-monthly digest. One calendar reminder for the review on Sat 17 Oct 09:30 exists; there are no separate reminders per submit-by date.
 
 ## B. Sources the radar cannot read (check by hand)
 These are also listed in every digest under "Von Hand prüfen / Check by hand" (`radar/config/manual_checks.txt`).
@@ -32,7 +34,7 @@ The radar never works around CAPTCHAs, bot checks or logins.
 4. **Keywords**: review the first real digests (Thu 15 Oct twice-monthly, Sat 17 Oct weekly) and tune `radar/config/keywords.txt` (350 terms now; "digitalisierung" is noisy).
 
 ## D. Work to do
-1. ~~Jev scoring pass~~ — **built 2026-10-11.** Every shown item gets a "Jev: lösbar? / solvable?" column (probability that a very small software and AI team could solve it, plus grant / service tender / goods). Advisory only: it never hides an item or changes the order. Spot-check: it ranked a KI-tool market sounding highest and a licence purchase lowest, but its range is narrow (about 20 % to 70 %) and it is weak on vague titles. Use it for ordering, not as a hard cut-off. Only title, buyer and a short summary are sent. Next: judge quality after you have read a real digest; consider sorting by it.
+1. ~~Jev scoring pass~~ — **built 2026-10-11.** Every shown item gets a "Jev: lösbar? / solvable?" column (probability that a very small software and AI team could solve it, plus grant / service tender / goods). Advisory only: it never hides an item. The digest is sorted by this probability first, then keyword score (since 2026-10-11, at Chris's request). Spot-check: it ranked a KI-tool market sounding highest and a licence purchase lowest, but its range is narrow (about 20 % to 70 %) and it is weak on vague titles. Use it for ordering, not as a hard cut-off. Only title, buyer and a short summary are sent. Next: judge its quality after you have read a real digest.
 2. **Seen-state gap**: the radar marks unmatched items as seen, so a keyword added later never resurfaces old items. Option: keep unmatched items unseen so they are re-evaluated each run.
 3. **Pen-test benchmark protocol** — deferred by Chris on 2026-10-11 ("later"). Not written.
 4. **`opportunities.md`** — the "days left" column goes stale daily.

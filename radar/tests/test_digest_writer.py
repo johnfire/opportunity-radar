@@ -9,6 +9,7 @@ from radar.digest_writer import (
     parse_manual_check_lines,
     render_digest,
 )
+from radar.jev_fit_scoring import FitJudgment
 from radar.keyword_scoring import ScoredOpportunity
 from radar.opportunity_model import Opportunity, RunContext
 
@@ -131,3 +132,18 @@ def test_every_heading_is_written_in_german_and_english() -> None:
         "## Von Hand prüfen (der Radar kann diese nicht lesen) / Check by hand",
     ):
         assert heading in text
+
+
+def test_with_jev_answers_the_most_solvable_item_comes_first_and_unjudged_items_last() -> None:
+    items = [
+        scored("high-keyword-low-fit", 9, date(2026, 11, 1)),
+        scored("low-keyword-high-fit", 1, date(2026, 11, 1)),
+        scored("not-judged", 20, date(2026, 11, 1)),
+    ]
+    fits = {
+        "ted:high-keyword-low-fit": FitJudgment(0.2, "service_tender"),
+        "ted:low-keyword-high-fit": FitJudgment(0.8, "service_tender"),
+    }
+    text = render_digest(a_digest_input(new_items=items, fits=fits))
+    assert text.index("low-keyword-high-fit") < text.index("high-keyword-low-fit") < text.index("not-judged")
+    assert "Sorted by Jev probability" in text
