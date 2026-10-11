@@ -40,7 +40,7 @@ def a_digest_input(**overrides: object) -> DigestInput:
 
 def test_header_names_the_date_group_and_run_id() -> None:
     text = render_digest(a_digest_input())
-    assert text.startswith("# Radar digest 2026-10-11 (weekly)")
+    assert text.startswith("# Radar-Bericht / Radar digest 2026-10-11 (weekly)")
     assert "run-42" in text
 
 
@@ -57,14 +57,14 @@ def test_new_items_are_sorted_by_score_then_earliest_deadline() -> None:
 def test_a_row_shows_deadline_days_left_amount_and_link() -> None:
     items = [scored("Datenplattform", 3, date(2026, 10, 21), amount="Budget laut Portal: 5.000.000 €")]
     text = render_digest(a_digest_input(new_items=items))
-    assert "2026-10-21 (10 days)" in text
+    assert "2026-10-21 (10 Tage / days)" in text
     assert "Budget laut Portal: 5.000.000 €" in text
     assert "https://x/Datenplattform" in text
 
 
 def test_one_day_left_is_written_in_the_singular() -> None:
     text = render_digest(a_digest_input(new_items=[scored("Tomorrow", 2, date(2026, 10, 12))]))
-    assert "(1 day)" in text and "(1 days)" not in text
+    assert "(1 Tag / day)" in text and "(1 Tage / days)" not in text
 
 
 def test_an_item_without_deadline_is_shown_with_a_dash() -> None:
@@ -74,18 +74,18 @@ def test_an_item_without_deadline_is_shown_with_a_dash() -> None:
 
 def test_nothing_new_is_stated_plainly() -> None:
     text = render_digest(a_digest_input())
-    assert "Nothing new matched your keywords." in text
+    assert "Nichts Neues passt zu deinen Stichwörtern. / Nothing new matched your keywords." in text
 
 
 def test_closing_soon_section_lists_known_items_with_their_days_left() -> None:
     text = render_digest(a_digest_input(closing_soon=[scored("Almost over", 2, date(2026, 10, 14))]))
-    assert "## Closing within 14 days" in text
-    assert "Almost over" in text and "(3 days)" in text
+    assert "Closing within 14 days (already reported earlier)" in text
+    assert "Almost over" in text and "(3 Tage / days)" in text
 
 
 def test_counts_of_hidden_and_unmatched_items_are_reported() -> None:
     text = render_digest(a_digest_input(hidden_by_rules=7, unmatched_count=40))
-    assert "7 new items were hidden by your exclusion rules" in text
+    assert "7 new items were hidden by your exclusion rules." in text
     assert "40 new items matched no keyword" in text
 
 
@@ -93,7 +93,7 @@ def test_failed_source_is_shown_with_its_reason() -> None:
     results = [SourceResult("ted", True, 10, 2, None), SourceResult("eu_portal", False, 0, 0, "HTTP 500")]
     text = render_digest(a_digest_input(source_results=results))
     assert "| ted | ok | 10 | 2 |" in text
-    assert "| eu_portal | FAILED | 0 | 0 | HTTP 500 |" in text
+    assert "| eu_portal | FEHLER / FAILED | 0 | 0 | HTTP 500 |" in text
 
 
 def test_manual_checks_and_warnings_are_listed() -> None:
@@ -120,3 +120,14 @@ def test_digest_path_is_dated_and_never_overwrites(tmp_path: Path) -> None:
     assert first.name == "2026-10-11-weekly.md"
     first.write_text("x", encoding="utf-8")
     assert next_digest_path(tmp_path, TODAY, "weekly").name == "2026-10-11-weekly-2.md"
+
+
+def test_every_heading_is_written_in_german_and_english() -> None:
+    manual = [ManualCheck("ZIM", "https://www.zim.de", "")]
+    text = render_digest(a_digest_input(new_items=[scored("x", 3, None)], manual_checks=manual))
+    for heading in (
+        "## Neu seit dem letzten Lauf / New since the last run",
+        "## Zustand der Quellen / Source health",
+        "## Von Hand prüfen (der Radar kann diese nicht lesen) / Check by hand",
+    ):
+        assert heading in text

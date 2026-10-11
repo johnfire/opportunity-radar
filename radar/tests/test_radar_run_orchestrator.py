@@ -105,7 +105,7 @@ def test_a_failing_source_does_not_stop_the_others(paths: RadarPaths) -> None:
     ]
     report = run(paths, sources, NotifierSpy())
     text = report.digest_path.read_text(encoding="utf-8")
-    assert "| eu_portal | FAILED | 0 | 0 | HTTP 500 |" in text
+    assert "| eu_portal | FEHLER / FAILED | 0 | 0 | HTTP 500 |" in text
     assert "Software A" in text
     assert report.failed_sources == ["eu_portal"]
 
@@ -126,7 +126,7 @@ def test_second_run_reports_nothing_new_but_flags_items_closing_soon(paths: Rada
     second = run(paths, [a_source("ted", items)], NotifierSpy())
     text = second.digest_path.read_text(encoding="utf-8")
     assert "Nothing new matched your keywords." in text
-    assert "## Closing within 14 days" in text and "Software dringend" in text
+    assert "Closing within 14 days" in text and "Software dringend" in text
     assert second.digest_path.name.endswith("-2.md")
 
 

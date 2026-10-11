@@ -69,7 +69,7 @@ def _deadline_cell(item: ScoredOpportunity, today: date) -> str:
     if deadline is None:
         return "–"
     days_left = (deadline - today).days
-    unit = "day" if days_left == 1 else "days"
+    unit = "Tag / day" if days_left == 1 else "Tage / days"
     return f"{deadline.isoformat()} ({days_left} {unit})"
 
 
@@ -92,48 +92,72 @@ def _row(item: ScoredOpportunity, today: date) -> str:
 
 
 def _opportunity_table(items: list[ScoredOpportunity], today: date) -> list[str]:
-    header = ["| Score | Source | Title | Buyer | Deadline | Money | Link |", "|---|---|---|---|---|---|---|"]
+    header = [
+        "| Punkte / Score | Quelle / Source | Titel / Title | Auftraggeber / Buyer"
+        " | Frist / Deadline | Geld / Money | Link |",
+        "|---|---|---|---|---|---|---|",
+    ]
     return header + [_row(item, today) for item in sorted(items, key=_sort_key)]
 
 
 def _new_section(digest: DigestInput) -> list[str]:
-    lines = [f"## New since the last run ({len(digest.new_items)})", ""]
+    lines = [f"## Neu seit dem letzten Lauf / New since the last run ({len(digest.new_items)})", ""]
     if not digest.new_items:
-        return lines + ["Nothing new matched your keywords.", ""]
+        return lines + ["Nichts Neues passt zu deinen Stichwörtern. / Nothing new matched your keywords.", ""]
     return lines + _opportunity_table(digest.new_items, digest.context.today) + [""]
 
 
 def _closing_section(digest: DigestInput) -> list[str]:
     if not digest.closing_soon:
         return []
-    lines = [f"## Closing within {CLOSING_SOON_DAYS} days (already reported earlier)", ""]
+    lines = [
+        (
+            f"## Frist endet in {CLOSING_SOON_DAYS} Tagen (schon früher gemeldet) / "
+            f"Closing within {CLOSING_SOON_DAYS} days (already reported earlier)"
+        ),
+        "",
+    ]
     return lines + _opportunity_table(digest.closing_soon, digest.context.today) + [""]
 
 
 def _counts_section(digest: DigestInput) -> list[str]:
     lines = []
     if digest.hidden_by_rules:
-        lines.append(f"- {digest.hidden_by_rules} new items were hidden by your exclusion rules.")
+        lines.append(
+            f"- {digest.hidden_by_rules} neue Einträge durch deine Ausschlussregeln ausgeblendet / "
+            f"{digest.hidden_by_rules} new items were hidden by your exclusion rules."
+        )
     if digest.unmatched_count:
-        lines.append(f"- {digest.unmatched_count} new items matched no keyword and are not shown.")
+        lines.append(
+            f"- {digest.unmatched_count} neue Einträge ohne Stichwort-Treffer, nicht angezeigt / "
+            f"{digest.unmatched_count} new items matched no keyword and are not shown."
+        )
     return lines + [""] if lines else []
 
 
 def _health_row(result: SourceResult) -> str:
-    status = "ok" if result.succeeded else "FAILED"
+    status = "ok" if result.succeeded else "FEHLER / FAILED"
     note = _escape_cell(result.error or "")
     return f"| {result.source} | {status} | {result.found_count} | {result.new_count} | {note} |"
 
 
 def _health_section(digest: DigestInput) -> list[str]:
-    header = ["## Source health", "", "| Source | Status | Found | New | Note |", "|---|---|---|---|---|"]
+    header = [
+        "## Zustand der Quellen / Source health",
+        "",
+        "| Quelle / Source | Status | Gefunden / Found | Neu / New | Hinweis / Note |",
+        "|---|---|---|---|---|",
+    ]
     return header + [_health_row(result) for result in digest.source_results] + [""]
 
 
 def _manual_section(digest: DigestInput) -> list[str]:
     if not digest.manual_checks:
         return []
-    lines = ["## Check by hand (the radar cannot read these)", ""]
+    lines = [
+        "## Von Hand prüfen (der Radar kann diese nicht lesen) / Check by hand (the radar cannot read these)",
+        "",
+    ]
     for check in digest.manual_checks:
         suffix = f" ({check.note})" if check.note else ""
         lines.append(f"- {check.name}: {check.url}{suffix}")
@@ -143,14 +167,14 @@ def _manual_section(digest: DigestInput) -> list[str]:
 def _warning_section(digest: DigestInput) -> list[str]:
     if not digest.warnings:
         return []
-    return ["## Warnings", ""] + [f"- {warning}" for warning in digest.warnings] + [""]
+    return ["## Warnungen / Warnings", ""] + [f"- {warning}" for warning in digest.warnings] + [""]
 
 
 def render_digest(digest: DigestInput) -> str:
     header = [
-        f"# Radar digest {digest.context.today.isoformat()} ({digest.group})",
+        f"# Radar-Bericht / Radar digest {digest.context.today.isoformat()} ({digest.group})",
         "",
-        f"Run id: `{digest.context.correlation_id}`",
+        f"Lauf-ID / Run id: `{digest.context.correlation_id}`",
         "",
     ]
     sections = (
