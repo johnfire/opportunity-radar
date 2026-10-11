@@ -1,0 +1,92 @@
+{
+ "notices": [
+  {
+   "deadline-receipt-tender-date-lot": [
+    "2026-11-03+01:00"
+   ],
+   "notice-type": "cn-standard",
+   "publication-number": "670742-2026",
+   "buyer-name": {
+    "deu": [
+     "Dataport AöR"
+    ]
+   },
+   "publication-date": "2026-09-30+02:00",
+   "notice-title": {
+    "deu": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – RV GeoOpenSource",
+    "eng": "Germany – IT services: consulting, software development, Internet and support – RV GeoOpenSource"
+   }
+  },
+  {
+   "deadline-receipt-tender-date-lot": [
+    "2026-10-30+01:00"
+   ],
+   "notice-type": "cn-standard",
+   "publication-number": "670787-2026",
+   "buyer-name": {
+    "deu": [
+     "Informationstechnikzentrum Bund (ITZBund)"
+    ]
+   },
+   "publication-date": "2026-09-30+02:00",
+   "notice-title": {
+    "deu": "Deutschland – Bereitstellung von Software – RV- SW Lifecycle Management // Bereitstellung Sonatype Softwareprodukt",
+    "eng": "Germany – Software supply services – RV- SW Lifecycle Management // Bereitstellung Sonatype Softwareprodukt"
+   }
+  },
+  {
+   "deadline-receipt-tender-date-lot": [
+    "2026-10-30+01:00"
+   ],
+   "notice-type": "cn-standard",
+   "publication-number": "671099-2026",
+   "buyer-name": {
+    "deu": [
+     "Landesamt für Ausbildung, Fortbildung und Personalangelegenheiten der Polizei NRW"
+    ]
+   },
+   "publication-date": "2026-09-30+02:00",
+   "notice-title": {
+    "deu": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – 26 DR IDT IR",
+    "eng": "Germany – IT services: consulting, software development, Internet and support – 26 DR IDT IR"
+   }
+  },
+  {
+   "deadline-receipt-tender-date-lot": [
+    "2026-10-29+01:00"
+   ],
+   "notice-type": "cn-standard",
+   "publication-number": "671227-2026",
+   "buyer-name": {
+    "deu": [
+     "DAK-Gesundheit"
+    ]
+   },
+   "publication-date": "2026-09-30+02:00",
+   "notice-title": {
+    "deu": "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen",
+    "eng": "Germany – IT services: consulting, software development, Internet and support – Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen"
+   }
+  },
+  {
+   "deadline-receipt-tender-date-lot": [
+    "2026-10-30+01:00"
+   ],
+   "notice-type": "cn-standard",
+   "publication-number": "671523-2026",
+   "buyer-name": {
+    "deu": [
+     "Land Schleswig-Holstein - Der Ministerpräsident - Staatskanzlei - ZIT"
+    ]
+   },
+   "publication-date": "2026-09-30+02:00",
+   "notice-title": {
+    "deu": "Deutschland – Programmierung von Softwarepaketen – Entwicklungsauftrag LibreOffice",
+    "eng": "Germany – Programming services of packaged software products – Entwicklungsauftrag LibreOffice"
+   }
+  }
+ ],
+ "totalNoticeCount": 138,
+ "iterationNextToken": null,
+ "timedOut": false
+}

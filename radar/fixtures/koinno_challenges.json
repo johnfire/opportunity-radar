@@ -1,0 +1,141 @@
+{
+ "docs": [
+  {
+   "_id": "6abd55f6f321e1a16ef744a0",
+   "owner": {
+    "name": "Bundeswehr-Dienstleistungszentrum Rostock"
+   },
+   "description": {
+    "title": "Stellung von Mobilen Sanitäranlagen",
+    "description": "<p>Als <strong>Bundeswehr-Dienstleistungszentrum Rostock</strong> sind wir die erste regionale Ansprechstelle für die Truppe vor Ort. Vor allem infrastrukturelle Bedarfe, welche in den Liegenschaften der Bundeswehr oder bei militärischen Übungen der Streitkräfte entstehen, sind durch die Mitarbeitenden des Bundeswehr-Dienstleistungszentrums zu decken.</p><p></p><p>Mit Blick auf die wachsende Bedeutung der Bundeswehr wird eine effiziente Arbeitsweise der Bundeswehrverwaltung stetig relevanter für die Einsatzbereitschaft der Streitkräfte. Vor diesem Hintergrund ist es unabdingbar, ein bestmöglic",
+    "categories": [
+     {
+      "name": "Medizin & Gesundheit"
+     },
+     {
+      "name": "Krisenmanagement & Katastrophenschutz"
+     },
+     {
+      "name": "Mobilität"
+     }
+    ]
+   },
+   "phases": {
+    "start": "2026-09-30T22:00:00.000Z",
+    "callForSolutionsDuration": 4,
+    "solutionReviewDuration": 1,
+    "ratingDuration": 1,
+    "start_lowercase": "2026-09-30t22:00:00.000z"
+   },
+   "currentPhase": "CallForSolutions"
+  },
+  {
+   "_id": "6ab50896f321e1a16ef58136",
+   "owner": {
+    "name": "Bezirksregierung Münster"
+   },
+   "description": {
+    "title": "Nachhaltiges Büromaterial",
+    "description": "<p>Die Bezirksregierung Münster ist die regionale Vertretung der Landesregierung Nordrhein-Westfalens für mehr als 2,6 Millionen Menschen im Münsterland und der Emscher-Lippe-Region. Als Bündelungsbehörde koordiniert sie die Interessen von Kommunen, Wirtschaft, Verbänden und Bürgerinnen und Bürgern und entwickelt tragfähige Lösungen für die Region.</p><p></p><p>Mit rund 1.800 Mitarbeitenden versteht sie sich als moderne, serviceorientierte Verwaltung und Impulsgeberin für nachhaltige Entwicklung und Innovation. Im Rahmen dieser Challenge möchte die Bezirksregierung Münster den Markt zu nachhal",
+    "categories": [
+     {
+      "name": "Bürobedarf"
+     }
+    ]
+   },
+   "phases": {
+    "start": "2026-09-27T22:00:00.000Z",
+    "callForSolutionsDuration": 4,
+    "solutionReviewDuration": 2,
+    "ratingDuration": 3,
+    "start_lowercase": "2026-09-27t22:00:00.000z"
+   },
+   "currentPhase": "CallForSolutions"
+  },
+  {
+   "_id": "6ab24230f321e1a16ef4f8e3",
+   "owner": {
+    "name": "Universitätsstadt Tübingen"
+   },
+   "description": {
+    "title": "Moderne IT-Komponenten und mobile Endgeräte für die öffentliche Verwaltung",
+    "description": "<p>Die Universitätsstadt Tübingen gehört mit rund 91.000 Einwohnerinnen und Einwohnern zu den bedeutenden Wissenschafts- und Innovationsstandorten Deutschlands. Die Stadt verbindet eine über 500-jährige Universitätsgeschichte mit einer modernen, zukunftsorientierten Stadtentwicklung und zeichnet sich durch ihre enge Vernetzung von Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft aus. </p><p></p><p>Im Rahmen ihrer fortschreitenden Digitalisierung ist die Universitätsstadt Tübingen auf eine zuverlässige und bedarfsgerechte Ausstattung mit IT-Hardware und mobilem Zubehör angewiesen. Zur Vorb",
+    "categories": [
+     {
+      "name": "IT-Infrastruktur & Telekommunikation"
+     },
+     {
+      "name": "E-Government"
+     }
+    ]
+   },
+   "phases": {
+    "start": "2026-09-22T22:00:00.000Z",
+    "callForSolutionsDuration": 6,
+    "solutionReviewDuration": 2,
+    "ratingDuration": 3,
+    "start_lowercase": "2026-09-22t22:00:00.000z"
+   },
+   "currentPhase": "CallForSolutions"
+  },
+  {
+   "_id": "6aaab06af321e1a16ef3c6ce",
+   "owner": {
+    "name": "Landkreis Wittenberg"
+   },
+   "description": {
+    "title": "Open Source Landkreis-App",
+    "description": "<p>Der Landkreis Wittenberg liegt im Osten Sachsen-Anhalts und umfasst neun Städte und Gemeinden mit rund 120.000 Einwohnerinnen und Einwohnern auf einer Fläche von über 1.930 km². Die Region vereint städtische und ländliche Strukturen und ist über die Grenzen hinaus insbesondere durch die UNESCO-Welterbestätten, die Lutherstadt Wittenberg sowie das Gartenreich Dessau-Wörlitz bekannt.</p><p></p><p>Als moderne und bürgernahe Verwaltung arbeitet der Landkreis kontinuierlich daran, seine Dienstleistungen weiterzuentwickeln und digitale Angebote auszubauen. Mit der vorliegenden Challenge sucht der",
+    "categories": [
+     {
+      "name": "E-Government"
+     },
+     {
+      "name": "Marketing & Public Relations"
+     },
+     {
+      "name": "Tourismus & Kultur"
+     }
+    ]
+   },
+   "phases": {
+    "start": "2026-09-16T22:00:00.000Z",
+    "callForSolutionsDuration": 3,
+    "solutionReviewDuration": 1,
+    "ratingDuration": 1,
+    "start_lowercase": "2026-09-16t22:00:00.000z"
+   },
+   "currentPhase": "SolutionReview"
+  },
+  {
+   "_id": "6a8483a6f321e1a16eecc763",
+   "owner": {
+    "name": "Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr"
+   },
+   "description": {
+    "title": "Selbstschutz-Komplettsätze für verschiedene Einsatzszenarien",
+    "description": "<p>Das <strong>Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr</strong></p><p><strong>(BAIUDBw)</strong> ist eine zentrale Dienststelle der Bundeswehr. Es verantwortet unter anderem Infrastruktur, Umweltmanagement sowie zahlreiche Dienstleistungen für die Streitkräfte. Das BAIUDBw übernimmt zentrale Beschaffungsaufgaben für „handelsübliche Waren und Dienstleistungen“ der Bundeswehr wahr. Durch die Bündelung von Bedarfen ermöglicht das BAIUDBw eine effiziente Beschaffung und schafft zugleich die Möglichkeit, dass alle Dienststellen der Bundeswehr die zentral bescha",
+    "categories": [
+     {
+      "name": "Krisenmanagement & Katastrophenschutz"
+     },
+     {
+      "name": "Medizin"
+     },
+     {
+      "name": "Defence"
+     }
+    ]
+   },
+   "phases": {
+    "start": "2026-08-19T22:00:00.000Z",
+    "callForSolutionsDuration": 4,
+    "solutionReviewDuration": 2,
+    "ratingDuration": 2,
+    "start_lowercase": "2026-08-19t22:00:00.000z"
+   },
+   "currentPhase": "Rating"
+  }
+ ],
+ "totalDocs": 5
+}

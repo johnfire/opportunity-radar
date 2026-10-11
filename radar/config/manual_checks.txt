@@ -1,0 +1,6 @@
+# Sources the radar cannot read. Format: name | url | why. Listed in every digest as a reminder.
+ZIM | https://www.zim.de | blocks automated access; an application stop was reported since July 2026
+Förderdatenbank | https://www.foerderdatenbank.de | CAPTCHA for automated searches
+DTVP | https://www.dtvp.de | needs your account (registration pending)
+Projektträger Jülich | https://www.ptj.de | was down on 2026-10-11; recheck
+CIHBw pitch page | https://www.cyberinnovationhub.de/en/innovation/your-pitch-for-the-cihbw | site was mid-relaunch

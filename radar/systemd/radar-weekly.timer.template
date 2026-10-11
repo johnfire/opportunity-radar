@@ -1,0 +1,10 @@
+[Unit]
+Description=Opportunity radar: every Saturday morning
+
+[Timer]
+OnCalendar=Sat *-*-* 08:00:00
+# If the laptop was off at that time, run once at the next start instead of skipping the week.
+Persistent=true
+
+[Install]
+WantedBy=timers.target

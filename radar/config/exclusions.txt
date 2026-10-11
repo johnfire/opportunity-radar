@@ -1,0 +1,22 @@
+# Anything containing one of these (even inside a word) is hidden from the digest and only counted.
+lizenz
+wartung
+reinigung
+sicherheitsdienst
+bewachung
+wachdienst
+verpflegung
+catering
+bauarbeiten
+tiefbau
+hochbau
+straßenbau
+elektroinstallation
+fahrzeug
+kraftstoff
+wirkstoff
+arzneimittel
+steuerberatung
+rechnungsprüfung
+jahresabschluss
+marketing

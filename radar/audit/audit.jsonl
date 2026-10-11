@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-11T17:04:57+02:00", "correlation_id": "1fc16b49d522", "actor": "radar-bot", "action": "fetch_source", "target": "koinno", "outcome": "ok", "detail": "5 opportunities"}
+{"timestamp": "2026-10-11T17:05:08+02:00", "correlation_id": "1fc16b49d522", "actor": "radar-bot", "action": "fetch_source", "target": "eu_portal", "outcome": "ok", "detail": "379 opportunities"}
+{"timestamp": "2026-10-11T17:05:10+02:00", "correlation_id": "1fc16b49d522", "actor": "radar-bot", "action": "fetch_source", "target": "ted", "outcome": "ok", "detail": "391 opportunities"}
+{"timestamp": "2026-10-11T17:05:10+02:00", "correlation_id": "1fc16b49d522", "actor": "radar-bot", "action": "write_digest", "target": "2026-10-11-weekly.md", "outcome": "ok", "detail": "55817 characters"}
+{"timestamp": "2026-10-11T17:07:13+02:00", "correlation_id": "850e02f6a69f", "actor": "radar-bot", "action": "fetch_source", "target": "koinno", "outcome": "ok", "detail": "5 opportunities"}
+{"timestamp": "2026-10-11T17:07:25+02:00", "correlation_id": "850e02f6a69f", "actor": "radar-bot", "action": "fetch_source", "target": "eu_portal", "outcome": "ok", "detail": "467 opportunities"}
+{"timestamp": "2026-10-11T17:07:27+02:00", "correlation_id": "850e02f6a69f", "actor": "radar-bot", "action": "fetch_source", "target": "ted", "outcome": "ok", "detail": "391 opportunities"}
+{"timestamp": "2026-10-11T17:07:28+02:00", "correlation_id": "850e02f6a69f", "actor": "radar-bot", "action": "write_digest", "target": "2026-10-11-weekly-2.md", "outcome": "ok", "detail": "40539 characters"}

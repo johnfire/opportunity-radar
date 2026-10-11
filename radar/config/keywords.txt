@@ -1,0 +1,51 @@
+# One keyword per line. Optional weight after a bar: "term | 3". Default weight is 1.
+# Short terms (3 letters or fewer) match whole words only; longer terms match at the start of a word.
+# Edit freely: the radar re-reads this file on every run.
+
+# software and data work
+software | 2
+softwareentwicklung | 3
+entwicklung | 1
+programmier | 2
+backend | 2
+frontend | 2
+python | 2
+java | 1
+app | 2
+datenplattform | 3
+datenanalyse | 3
+daten | 2
+datenbank | 1
+plattform | 2
+schnittstelle | 2
+architektur | 1
+testautomatisierung | 2
+cloud | 1
+open source | 2
+
+# artificial intelligence
+ki | 3
+künstliche intelligenz | 3
+machine learning | 3
+maschinelles lernen | 3
+
+# process and consulting
+digitalisierung | 2
+automatisierung | 2
+prozess | 2
+prozessanalyse | 3
+beratung | 1
+studie | 1
+machbarkeit | 2
+prototyp | 2
+simulation | 2
+
+# hardware, sensors, security
+sensor | 2
+messsystem | 2
+embedded | 2
+elektronik | 1
+cyber | 2
+it-sicherheit | 2
+datenschutz | 1
+drohne | 1

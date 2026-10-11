@@ -1,0 +1,8 @@
+[Unit]
+Description=Opportunity radar: weekly API sources (KOINNO, EU portal, TED)
+
+[Service]
+Type=oneshot
+Environment=RADAR_ROOT=@RADAR_DIR@
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=%t/bus
+ExecStart=@RADAR_DIR@/.venv/bin/radar run --group weekly

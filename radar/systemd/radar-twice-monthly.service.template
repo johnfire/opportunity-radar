@@ -1,0 +1,8 @@
+[Unit]
+Description=Opportunity radar: page-based sources (1st and 15th of the month)
+
+[Service]
+Type=oneshot
+Environment=RADAR_ROOT=@RADAR_DIR@
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=%t/bus
+ExecStart=@RADAR_DIR@/.venv/bin/radar run --group twice-monthly

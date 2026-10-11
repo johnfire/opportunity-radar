@@ -1,0 +1,40 @@
+[project]
+name = "opportunity-radar"
+version = "0.1.0"
+description = "Checks public funding and tender sources on a schedule and writes a digest of new opportunities."
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "mypy", "pip-audit"]
+
+[project.scripts]
+radar = "radar.command_line:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["network: hits the real internet; skipped unless RADAR_NETWORK_TESTS=1"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "N", "C90", "SIM"]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 8
+
+[tool.mypy]
+strict = true
+python_version = "3.12"
+mypy_path = "src"
