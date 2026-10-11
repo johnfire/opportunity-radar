@@ -3,7 +3,7 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur
 
 ---
 
@@ -113,3 +113,57 @@ Antwort vergütet)
    Last day: **3 Nov 2026.**
 
 **Possibility for a closer look: 1** (Beihilfe app).
+
+---
+
+# 3. Cyber Innovation Hub der Bundeswehr (CIHBw) und Cyberagentur
+
+Quellen / Sources: https://www.cyberinnovationhub.de/en · https://challenge.cyberagentur.de
+Hinweis / Note: Die CIHBw-Webseite ist derzeit im Umbau und zeigt Fehler; die Angaben stammen aus Suchergebnissen und Nachrichten, nicht von der
+Seite selbst. / The CIHBw website is mid-relaunch and showing errors; the details come from search results and news, not from the site itself.
+
+## Deutsch
+
+**CIHBw und Cyberagentur: offene Möglichkeiten**
+
+1. **Pitch beim Cyber Innovation Hub der Bundeswehr (laufend).** Die Innovationseinheit der Bundeswehr nimmt jederzeit ein kurzes
+   Problem-Lösungs-Pitch-Deck von Startups entgegen und meldet sich, wenn es zu aktuellen oder geplanten Projekten passt. Ziel: ein
+   Prototyp innerhalb von 12 bis 24 Monaten. Der Hub beschafft nicht selbst, sondern empfiehlt der Bundeswehr die Umsetzung.
+   Fördersummen sind nicht angegeben. **Keine Frist.**
+
+**Möglichkeit für einen genaueren Blick: 1.**
+
+**Derzeit nicht offen (zur Information):**
+- **MARLIN Challenge** (Cyberagentur mit der Marine, sichere maritime Kommunikation): Bewerbung endete am 02.07.2026; bis zu sechs Teams
+  erhalten in der Arbeitsphase August bis Dezember 2026 jeweils bis zu **40.000 €.**
+- **SPECTRA Challenge** (Abwehr elektronischer Drohnenangriffe): endete im Dezember 2025; bis zu **100.000 €** Entwicklungshonorar.
+- **Innovation Challenge der Bundeswehr:** nur für Angehörige der Bundeswehr.
+- **EUDIS Business Accelerator** (40 Startups in zwei Gruppen): beide Gruppen 2026 gestartet (März und September).
+
+**Hinweis: Eigene Idee einreichen.** Beim CIHBw ist das möglich: Startups schicken jederzeit ein kurzes Pitch-Deck (Problem und Lösung).
+Dieser Weg ist nur aus Suchergebnissen bekannt und nicht von der Webseite bestätigt, weil sie derzeit nicht erreichbar ist. Die
+Cyberagentur startet etwa einmal im Jahr eine Challenge (SPECTRA im August 2025, MARLIN im Mai 2026); Kontakt:
+challenge@cyberagentur.de.
+
+## English
+
+**CIHBw and Cyberagentur: open opportunities**
+
+1. **Pitch to the Cyber Innovation Hub der Bundeswehr (rolling).** The Bundeswehr's innovation unit accepts a short
+   problem-and-solution pitch deck from startups at any time and gets in touch if it fits current or planned projects. Aim: a
+   prototype within 12 to 24 months. The hub does not procure itself; it recommends the Bundeswehr take solutions on. Funding
+   amounts are not stated. **No deadline.**
+
+**Possibility for a closer look: 1.**
+
+**Not open right now (for information):**
+- **MARLIN Challenge** (Cyberagentur with the Navy, secure maritime communication): applications closed 2 July 2026; up to six
+  teams each get up to **€40,000** in the work phase from August to December 2026.
+- **SPECTRA Challenge** (defence against electronic drone attacks): ended December 2025; up to **€100,000** in development fees.
+- **Bundeswehr Innovation Challenge:** for Bundeswehr personnel only.
+- **EUDIS Business Accelerator** (40 startups in two cohorts): both 2026 cohorts have started (March and September).
+
+**Note: you can submit your own idea.** At the CIHBw this is possible: startups send a short pitch deck (problem and solution) at any
+time. This route is known only from search results and is not confirmed on the website, because it is currently unreachable. The
+Cyberagentur launches a challenge about once a year (SPECTRA in August 2025, MARLIN in May 2026); contact:
+challenge@cyberagentur.de.
