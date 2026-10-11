@@ -15,7 +15,7 @@ Umfang: Wir lösen Probleme aller Art (Software, Hardware, Datenverarbeitung, Be
 3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
 4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen · 12. Eurostars, Innowwide, NLnet · 13. DTVP · 14. Vergabe Bayern · 15. evergabe-online
 
 ---
 
@@ -716,6 +716,47 @@ No development, no AI, data or consulting work of the kind we do.
 
 **Note: you can submit your own idea.** No. A login is only needed to download documents and submit bids.
 
+
+---
+
+# 15. evergabe-online (e-Vergabe, die Vergabeplattform des Bundes)
+
+Quelle / Source: https://www.evergabe-online.de/search.html (öffentliche Suche, **kein Login nötig** / public search, **no login needed**; 11.10.2026)
+Hinweis / Note: Die Plattform zeigte 1.049 Bekanntmachungen. Die Stichwortsuche (bis 100 Zeichen, „ODER“ für mehrere Begriffe) durchsucht auch den Text der Bekanntmachungen und ist daher ungenau; Fristen erscheinen erst in einem breiten Fenster. Gesucht wurde mit
+fünf Stichwortgruppen (Software, IT, Daten, KI, Studie, Forschung, Messsystem); es handelt sich nicht um eine vollständige Durchsicht. / The platform showed 1,049 notices. The keyword search (up to 100 characters, "ODER" for several terms) also searches the text of the notices and is therefore imprecise; deadlines only appear in a wide window. Five keyword groups were used (software, IT, data, AI, study, research, measurement system); this is not a complete review.
+
+## Deutsch
+
+1. **Bundesanstalt für Straßen- und Verkehrswesen (BASt): „Digitalisierung der LSA“, Leitfaden zur Erstellung und Pflege von MAPEM- und SPATEM-Nachrichten für kooperative Lichtsignalanlagen (C-ITS)** (Forschungsprojekt zu digitalen Verkehrsdaten). Öffentliche Ausschreibung,
+   Frist **10.11.2026, 06:00.** Kein Wert genannt.
+2. **Bundeswehrverwaltung: „Softwareentwicklung – Python Grundlagen und Aufbaukurs“ (online).** Beschaffung einer Schulung. Öffentliche Ausschreibung, Frist **04.11.2026, 13:00.** Kein Wert genannt.
+3. **BSI, Projekt 1028: „Absicherung von Migrationsszenarien bei Datenbanksystemen (AMiD)“.** Öffentliche Ausschreibung, Frist **14.10.2026, 14:00** (in drei Tagen). Kein Wert genannt.
+4. **Beschaffungsamt des BMI: „IT-Dienstleistungen im Kontext GitLab“** (zusammen mit zwei GitLab-Lizenzlosen). EU-weites offenes Verfahren, Frist **15.10.2026, 11:30.** Kein Wert genannt.
+5. **Bundesamt für Strahlenschutz: „Des- und Fehlinformation im radiologischen Notfall“.** Öffentliche Ausschreibung, Frist **15.10.2026, 09:00.** Kein Wert genannt.
+6. **Umweltbundesamt: Messung, Qualitätssicherung, Auswertung und wissenschaftliche Einordnung klimawirksamer Spurengase an der Zugspitze (MEDUSA/AGAGE).** EU-weites offenes Verfahren, Frist **24.11.2026, 11:00.** Kein Wert genannt.
+7. **Vorinformationen (noch keine Frist):** **Cyberagentur, „[AI-as-OS] Artificial Intelligence as Operating System“** (Vorinformation für ein Partnering-Event, veröffentlicht 19.08.2026); **Bundesministerium für Arbeit und Soziales,
+   „Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen“** (veröffentlicht 23.07.2026).
+
+**Möglichkeiten für einen genaueren Blick: 1, 2 und 7** (7 beobachten, bis die eigentliche Ausschreibung erscheint). 3, 4 und 5 haben nur noch wenige Tage.
+
+**Hinweis: Eigene Idee einreichen.** Nein; man bietet auf veröffentlichte Aufträge. Das Angebot wird nach einer Registrierung über die Plattform abgegeben.
+
+## English
+
+1. **Federal Highway Research Institute (BASt): "Digitalisation of traffic signals", guide for creating and maintaining MAPEM and SPATEM messages for cooperative traffic signals (C-ITS)** (research project on digital traffic data). Public tender,
+   deadline **10 Nov 2026, 06:00.** No value stated.
+2. **Federal Armed Forces administration: "Software development – Python basics and advanced course" (online).** Procurement of a training course. Public tender, deadline **4 Nov 2026, 13:00.** No value stated.
+3. **BSI, project 1028: "Securing migration scenarios for database systems (AMiD)".** Public tender, deadline **14 Oct 2026, 14:00** (in three days). No value stated.
+4. **Federal Procurement Agency (BMI): "IT services in the context of GitLab"** (together with two GitLab licence lots). EU-wide open procedure, deadline **15 Oct 2026, 11:30.** No value stated.
+5. **Federal Office for Radiation Protection: "Dis- and misinformation in a radiological emergency".** Public tender, deadline **15 Oct 2026, 09:00.** No value stated.
+6. **Federal Environment Agency: measurement, quality assurance, evaluation and scientific classification of climate-relevant trace gases at the Zugspitze (MEDUSA/AGAGE).** EU-wide open procedure, deadline **24 Nov 2026, 11:00.** No value stated.
+7. **Prior information notices (no deadline yet):** **Cyberagentur, "[AI-as-OS] Artificial Intelligence as Operating System"** (prior information for a partnering event, published 19 Aug 2026); **Federal Ministry of Labour and Social Affairs,
+   "Using labour potential inclusively through digitalisation and AI"** (published 23 Jul 2026).
+
+**Possibilities for a closer look: 1, 2 and 7** (7: watch until the actual tender appears). 3, 4 and 5 have only a few days left.
+
+**Note: you can submit your own idea.** No; you bid on published contracts. Bids are submitted through the platform after registration.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -756,4 +797,5 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Eurostars (EUREKA) | zweimal jährlich / twice a year | 17.12.2026 (Aufruf 12) | 04.03.2027; danach September 2027 (Datum offen) / then Sept 2027 (date open) | ab 01.12.2026; erneut ab 01.06.2027 | gelesen / read (Zweitquelle / secondary) |
 | Eureka Innowwide | wiederkehrende Aufrufe (Aufruf 5) / recurring calls (call 5) | Herbst 2026 | 01.12.2026, 14:00 MEZ | ab Oktober 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
 | Vergabe Bayern (öffentliche Liste) / public list | täglich neu, überwiegend Bau / new daily, mostly construction | laufend / continuous | je Bekanntmachung / per notice | monatlich mit Stichworten (Software, Daten, Digital, App) / monthly with keywords | gelesen / read |
+| evergabe-online (Bund) | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich; Suche ohne Login / weekly; search without login | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
