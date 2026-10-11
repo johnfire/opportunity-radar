@@ -8,6 +8,8 @@ Three core documents track the funding and contract work:
 2. `submissions.md` — what we submitted, when, and what it could be worth.
 3. `funding-and-contract-sources.md` — every place to look. The planned monitoring bot reads this list.
 
+**PDF with page numbers:** `open-challenges.pdf` (every page has "Seite X von Y"). Regenerate after any edit with `tools/make-pdf.sh` (needs pandoc and chromium).
+
 Supporting documents:
 | File | What it is |
 |---|---|
