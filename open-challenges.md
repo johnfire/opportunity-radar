@@ -5,7 +5,16 @@
 Stand / Status: 11.10.2026 · Deutschland und EU / Germany and EU
 Ein Abschnitt pro Webseite, Deutsch zuerst, Englisch danach. / One section per website, German first, English second.
 
-**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung
+## Aufrufe mit genanntem Problem und Förderung / Calls with a stated problem and a grant
+
+*Kurzliste; wird ergänzt, wenn wir mehr finden. / Short list; extended when we find more.*
+
+1. **SPRIND** (Abschnitt / section 1): fünf Challenges, bis zu **9,6 Mio. €** je Team; Fristen 16.10. bis 30.11.2026. / five challenges, up to **€9.6M** per team; deadlines 16 Oct to 30 Nov 2026.
+2. **KOINNOvationsplatz** (Abschnitt / section 2): fünf Markterkundungen öffentlicher Auftraggeber, **ohne Vergütung**; Fristen 11.10. bis 03.11.2026. / five market soundings by public buyers, **no payment**; deadlines 11 Oct to 3 Nov 2026.
+3. **EU-Portal** (Abschnitt / section 7): Digital-Europe-Cyberthemen mit **3 bis 5 Mio. €** je Zuschuss, Frist 14.01.2027; EIC-Verteidigungsaufruf (Beteiligung 10 bis 30 Mio. €), Frist 28.10.2026. / Digital Europe cyber topics with **€3 to 5M** per grant, deadline 14 Jan 2027; EIC defence call (equity €10 to 30M), deadline 28 Oct 2026.
+4. **Prototype Fund** (Jahrgang 03): Open-Source-Software mit gesellschaftlichem Nutzen, Frist **30.11.2026, 15:00 MEZ**; Betrag auf der Seite nicht angegeben (Artikel von 2024: bis 158.000 € in zehn Monaten). / open-source software with social benefit, deadline **30 Nov 2026, 15:00 CET**; amount not shown on the page (2024 article: up to €158,000 over ten months).
+
+**Abschnitte / Sections:** 1. SPRIND · 2. KOINNOvationsplatz · 3. CIHBw und Cyberagentur · 4. NATO DIANA · 5. EDA und EU-Verteidigungsinnovation · 6. EIC · 7. EU Funding & Tenders Portal · 8. Deutsche Förderprogramme · 9. Behzads Programme · 10. Bundesförderung · 11. Ausschreibungen
 
 ---
 
@@ -541,6 +550,45 @@ des BMFTR mit den Bekanntmachungen wurde nicht gefunden; Projektträger Jülich 
 
 **Note: you can submit your own idea.** No; federal programmes have fixed announcements. The loan (1) is applied for through the house bank.
 
+
+---
+
+# 11. Ausschreibungen / Tenders (TED, service.bund.de)
+
+Quellen / Sources: TED (EU-weite Bekanntmachungen / EU-wide notices, über die öffentliche Suchschnittstelle gelesen / read through the public search interface), https://www.service.bund.de/Content/DE/Ausschreibungen/Suche/Formular.html
+Hinweis / Note: Es handelt sich um bezahlte Aufträge, nicht um Förderung. Die Zahlen sind geschätzte Auftragswerte der Auftraggeber für den ganzen Vertrag. Öffentliche Aufträge verlangen meist Eignungsnachweise (Referenzen, Umsatz); das ist für einen neuen Betrieb eine Hürde (allgemeines Wissen, je Ausschreibung zu prüfen). / These are paid contracts, not grants. The figures are the buyers' estimated values for the whole contract. Public tenders usually require proof of suitability (references, turnover); that is a hurdle for a new business (general knowledge, to check per tender).
+Geprüft / Checked 11.10.2026: TED (336 deutsche Bekanntmachungen mit Frist nach heute in IT-, Forschungs- und Beratungskategorien; davon nur wenige zu KI oder Prozessen) und service.bund.de. Nicht durchsucht / Not searched: DTVP, evergabe-online, Vergabe Bayern (Registrierung oder interaktive Suche nötig / registration or interactive search needed).
+
+## Deutsch
+
+1. **Universität Göttingen: „Beauftragung von KI-Multiplikatoren“ im BMFTR-Projekt EvoKS** (Erweiterung des KI-Servicezentrums KISSKI; Ziel: übertragbare KI-Workflow-Vorlagen, die KMU und Startups den KI-Einstieg erleichtern).
+   Geschätzter Auftragswert **1.420.168 €**, offenes Verfahren. Frist: **29.10.2026.**
+2. **Land Hessen (HZD): Beratungsleistungen „Digi-Expert-kommunal“** für das Digitalisierungsministerium: Beratung hessischer Kommunen bei der digitalen Transformation, zwei Lose.
+   Geschätzter Auftragswert **983.200 €.** Frist: **15.10.2026.**
+3. **Dresdner Verkehrsbetriebe: Markterkundung „KI-Bewertungstool und Data Warehouse/Lakehouse“** (nach § 26 SektVO, zur Vorbereitung der Ausschreibung). Kein Wert genannt. Frist: **21.10.2026.**
+4. **Stadtreinigung Hamburg: Implementierungsbegleitung** bei der Einführung eines Tourenplanungs- und Managementsystems. Kein Wert genannt. Frist: **26.10.2026.**
+5. **Technische Hochschule Würzburg-Schweinfurt: Schulungsdienstleistung „Einsatz von Künstlicher Intelligenz“.** Kein Wert genannt. Frist: **12.10.2026** (morgen).
+6. **Bundesamt für Strahlenschutz: „Stand von Wissenschaft und Technik von künstlicher Intelligenz“** (Studie). Kein Wert genannt. Frist: **15.10.2026.**
+
+**Möglichkeiten für einen genaueren Blick: 1, 3 und 6** (3 ist eine Markterkundung ohne Verpflichtung; bei 1 und 6 die Eignungsanforderungen lesen).
+
+**Hinweis: Eigene Idee einreichen.** Nein; man bietet auf veröffentlichte Aufträge. Neue Aufträge erscheinen täglich.
+
+## English
+
+1. **University of Göttingen: "Commissioning of AI multipliers" in the BMFTR project EvoKS** (extension of the AI service centre KISSKI; aim: transferable AI workflow templates that make it easier for SMEs and startups to start with AI).
+   Estimated contract value **€1,420,168**, open procedure. Deadline: **29 Oct 2026.**
+2. **State of Hesse (HZD): consulting services "Digi-Expert-kommunal"** for the digitalisation ministry: advising Hessian municipalities on digital transformation, two lots.
+   Estimated contract value **€983,200.** Deadline: **15 Oct 2026.**
+3. **Dresdner Verkehrsbetriebe: market sounding "AI evaluation tool and data warehouse/lakehouse"** (under § 26 SektVO, to prepare the tender). No value stated. Deadline: **21 Oct 2026.**
+4. **Stadtreinigung Hamburg: implementation support** for the rollout of a tour-planning and management system. No value stated. Deadline: **26 Oct 2026.**
+5. **Technical University of Würzburg-Schweinfurt: training service "Use of artificial intelligence".** No value stated. Deadline: **12 Oct 2026** (tomorrow).
+6. **Federal Office for Radiation Protection: "State of science and technology of artificial intelligence"** (study). No value stated. Deadline: **15 Oct 2026.**
+
+**Possibilities for a closer look: 1, 3 and 6** (3 is a market sounding with no obligation; for 1 and 6 read the suitability requirements).
+
+**Note: you can submit your own idea.** No; you bid on published contracts. New ones appear daily.
+
 ---
 
 # Kalender wiederkehrender Termine / Calendar of recurring dates
@@ -577,4 +625,5 @@ Neue Abschnitte ergänzen neue Zeilen. / New sections add new rows.
 | Bosch Startup Harbour | jährlich, Batches / yearly, batches | — | früher 15. Juni / earlier 15 June | ab Mai 2027 / from May 2027 | Suche / search (Jahr unbestätigt / year unconfirmed) |
 | KMU-innovativ IKT (BMFTR) | bisher regelmäßige Skizzentermine / sketch dates so far | — | 15.04.2026 | ab 01.03.2027 auf Nachfolge prüfen / check for a successor from 1 Mar 2027 | Suche / search; Rhythmus Schätzung / cycle estimate |
 | IPCEI KI (BMWE) | einmaliges Verfahren / one-off process | — | Interessenbekundung 21.01.2026 / expression of interest 21 Jan 2026 | monatlich auf Verfahrensstand prüfen / check the process stage monthly | Suche / search |
+| Ausschreibungen (TED, service.bund.de) / Tenders | täglich neu / new daily | laufend / continuous | je Ausschreibung / per tender | wöchentlich (TED-Suche und service.bund.de-Newsletter) / weekly (TED search and the service.bund.de newsletter) | gelesen / read |
 | Forschungszulage | laufend / rolling | jederzeit / any time | keine / none | — | Suche / search |
