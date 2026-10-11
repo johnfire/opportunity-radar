@@ -1,51 +1,370 @@
 # One keyword per line. Optional weight after a bar: "term | 3". Default weight is 1.
 # Short terms (3 letters or fewer) match whole words only; longer terms match at the start of a word.
+# Any single match is enough to show an item; the weight only decides the order in the digest.
 # Edit freely: the radar re-reads this file on every run.
+# Philosophy: cast a wide net. These words are tools or topics where Chris might BE the solution,
+# not words the project must contain. Weed out by hand; missing a good one costs more than reading a bad one.
 
-# software and data work
+# ---------- software, data, web ----------
 software | 2
 softwareentwicklung | 3
+software development | 3
 entwicklung | 1
+development | 1
 programmier | 2
+programming | 2
+coding | 1
 backend | 2
 frontend | 2
+full-stack | 2
+fullstack | 2
 python | 2
 java | 1
+typescript | 1
+javascript | 1
+rust | 1
 app | 2
-datenplattform | 3
-datenanalyse | 3
-daten | 2
-datenbank | 1
+mobile app | 2
+web app | 2
+webanwendung | 2
+webentwicklung | 2
+website | 1
+webseite | 1
+portal | 1
 plattform | 2
+platform | 2
+saas | 2
+api | 2
 schnittstelle | 2
+interface | 1
+interoperabilität | 2
+interoperability | 2
 architektur | 1
+architecture | 1
 testautomatisierung | 2
+test automation | 2
+devops | 2
 cloud | 1
 open source | 2
+open-source | 2
+quelloffen | 2
+fachverfahren | 2
+onlinezugang | 2
+e-akte | 2
+e-government | 2
+egovernment | 2
+digital wallet | 2
+wallet | 1
+eudi | 2
+identität | 1
+identity | 1
+authentifizierung | 1
+authentication | 1
+blockchain | 1
 
-# artificial intelligence
+# ---------- data and analysis ----------
+daten | 2
+data | 2
+datenplattform | 3
+datenanalyse | 3
+data analysis | 3
+data analytics | 3
+analytics | 2
+datenbank | 1
+database | 1
+datenverarbeitung | 2
+data processing | 2
+datenmanagement | 2
+data management | 2
+datenqualität | 2
+data quality | 2
+datenintegration | 2
+big data | 2
+data science | 3
+dashboard | 1
+visualisierung | 1
+visualization | 1
+auswertung | 1
+analyse | 1
+analysis | 1
+statistik | 1
+statistics | 1
+prognose | 2
+vorhersage | 2
+forecast | 2
+prediction | 2
+predictive | 2
+optimierung | 2
+optimization | 2
+optimisation | 2
+modellierung | 2
+modelling | 2
+modeling | 2
+numerisch | 2
+numerical | 2
+digitaler zwilling | 3
+digital twin | 3
+
+# ---------- artificial intelligence ----------
 ki | 3
+ai | 3
 künstliche intelligenz | 3
+artificial intelligence | 3
 machine learning | 3
 maschinelles lernen | 3
+deep learning | 3
+neuronale netze | 3
+neural network | 3
+neural | 2
+algorithmus | 2
+algorithmen | 2
+algorithm | 2
+llm | 3
+sprachmodell | 3
+language model | 3
+generative | 2
+generativ | 2
+chatbot | 2
+assistenzsystem | 2
+assistant | 1
+agent | 1
+agentic | 2
+foundation model | 2
+computer vision | 3
+bilderkennung | 3
+image recognition | 3
+bildverarbeitung | 2
+image processing | 2
+texterkennung | 2
+ocr | 2
+spracherkennung | 2
+speech recognition | 2
+natural language | 2
+sprachverarbeitung | 2
+dokumentenverarbeitung | 2
+document processing | 2
+mustererkennung | 2
+pattern recognition | 2
+anomalie | 2
+anomaly | 2
+erkennung | 1
+detection | 1
+klassifikation | 1
+classification | 1
+entscheidungsunterstützung | 2
+decision support | 2
+wissensmanagement | 1
+knowledge management | 1
+rag | 1
+trustworthy ai | 2
+vertrauenswürdige ki | 2
+explainable | 2
+erklärbar | 2
 
-# process and consulting
-digitalisierung | 2
+# ---------- process, automation, consulting ----------
+digitalisierung | 1
+digitalization | 1
+digitalisation | 1
+digital | 1
+digitale transformation | 2
+digital transformation | 2
 automatisierung | 2
+automatisier | 2
+automation | 2
+automatic | 1
+automatisch | 1
 prozess | 2
+process | 1
 prozessanalyse | 3
+prozessoptimierung | 3
+process optimization | 3
+process mining | 3
+process analysis | 3
+workflow | 2
+geschäftsprozess | 2
+business process | 2
+bürokratieabbau | 2
+bürokratie | 1
+papierlos | 2
+paperless | 2
+medienbruch | 2
+manuell | 1
+manual | 1
+effizienz | 1
+efficiency | 1
+entlastung | 1
+fachkräftemangel | 2
+skilled labour shortage | 2
 beratung | 1
+consulting | 1
+consultancy | 1
 studie | 1
+study | 1
+gutachten | 1
+konzept | 1
+konzeption | 1
+concept | 1
 machbarkeit | 2
+feasibility | 2
+evaluation | 1
+innovation | 1
 prototyp | 2
+prototype | 2
+proof of concept | 2
+demonstrator | 2
+pilot | 1
+pilotprojekt | 2
 simulation | 2
+technologie | 1
+technology | 1
+engineering | 1
+ingenieur | 1
+forschung | 1
+research | 1
+entwicklungsvorhaben | 2
+f&e | 1
 
-# hardware, sensors, security
-sensor | 2
-messsystem | 2
+# ---------- chips, hardware, electronics ----------
+chip | 3
+halbleiter | 3
+semiconductor | 3
+mikroelektronik | 3
+microelectronics | 3
+asic | 3
+fpga | 3
+vhdl | 3
+verilog | 3
+systemverilog | 3
+eda | 2
+chip design | 3
+chipdesign | 3
+chipentwurf | 3
+verifikation | 2
+verification | 2
+hardware | 2
 embedded | 2
-elektronik | 1
+eingebettet | 2
+firmware | 2
+elektronik | 2
+electronics | 2
+leiterplatte | 1
+pcb | 1
+photonik | 2
+photonics | 2
+iot | 2
+internet of things | 2
+edge computing | 2
+5g | 1
+messsystem | 2
+messtechnik | 2
+measurement | 1
+instrumentation | 1
+regelungstechnik | 2
+control system | 2
+control engineering | 2
+steuerung | 1
+automatisierungstechnik | 2
+
+# ---------- sensors, robotics, autonomy, space, quantum ----------
+sensor | 2
+sensorik | 2
+sensing | 2
+robotik | 3
+robotics | 3
+roboter | 3
+robot | 3
+cobot | 2
+autonom | 3
+autonomous | 3
+autonomie | 2
+autonomy | 2
+selbstfahrend | 2
+unbemannt | 2
+unmanned | 2
+uav | 3
+uas | 2
+lidar | 2
+radar | 2
+sonar | 1
+bildgebung | 1
+imaging | 1
+satellit | 2
+satellite | 2
+weltraum | 2
+raumfahrt | 2
+space | 1
+quanten | 3
+quantum | 3
+quantencomputing | 3
+quantum computing | 3
+quantensensor | 3
+quantum sensing | 3
+verschränkung | 3
+entanglement | 3
+physik | 1
+physics | 1
+neuromorph | 2
+neuromorphic | 2
+additive fertigung | 1
+additive manufacturing | 1
+3d-druck | 1
+fertigung | 1
+manufacturing | 1
+industrie 4.0 | 2
+industry 4.0 | 2
+predictive maintenance | 3
+zustandsüberwachung | 2
+condition monitoring | 2
+monitoring | 1
+
+# ---------- security, defence, resilience ----------
 cyber | 2
+cybersicherheit | 3
+cybersecurity | 3
+cyber security | 3
 it-sicherheit | 2
+informationssicherheit | 2
+information security | 2
+penetrationstest | 3
+penetration test | 3
+pentest | 3
+schwachstelle | 2
+vulnerability | 2
+verschlüsselung | 1
+encryption | 1
+kryptographie | 1
+cryptography | 1
+post-quantum | 3
+kritis | 2
+resilienz | 1
+resilience | 1
 datenschutz | 1
-drohne | 1
+privacy | 1
+dsgvo | 1
+gdpr | 1
+souverän | 1
+sovereign | 1
+sovereignty | 1
+souveränität | 1
+bundeswehr | 2
+verteidigung | 2
+defence | 2
+defense | 2
+rüstung | 1
+dual-use | 3
+dual use | 3
+drohne | 3
+drohnen | 3
+drone | 3
+counter-drone | 3
+anti-drone | 3
+drohnenabwehr | 3
+abwehr | 1
+lagebild | 2
+situational awareness | 2
+aufklärung | 1
+reconnaissance | 1
+gefechtsfeld | 1
+battlefield | 1
+sanitätsdienst | 1
+medevac | 1
