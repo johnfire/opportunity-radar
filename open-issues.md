@@ -20,7 +20,7 @@ These are also listed in every digest under "Von Hand prüfen / Check by hand" (
 1. **Prototype Fund** — bot-protection page (bunny.net Shield, JavaScript check). Apply 1 Oct to 30 Nov 2026, 15:00 CET. See also item C3.
 2. **ZIM** (zim.de) — blocks automated access; an application stop has been reported since July 2026; lifting hoped for early 2027.
 3. **Förderdatenbank** (foerderdatenbank.de) — CAPTCHA for automated searches.
-4. **DTVP** (dtvp.de) — needs Chris's own login; registration was blocked by a "Doppelregistrierung" caused by an email typo. A correction email to bieter@dtvp.de was sent by Chris. Check whether the account now works.
+4. **DTVP** (dtvp.de, Deutsches Vergabeportal) — **registered as of 2026-10-20** (Chris). The earlier "Doppelregistrierung" problem is solved. The radar still cannot read it (login needed), so it stays a hand check. **Next (Sat 24 Oct or in a couple of days):** Chris logs in and we look at what DTVP offers: tender search with CPV filters (72*, 73*, 48*), saved searches or email alerts if it has them, and whether notices there are also listed on service.bund.de or TED (the radar already reads those). I never enter credentials; Chris logs in.
 5. **Projektträger Jülich** (ptj.de) — was down (HTTP 504) on 2026-10-11; retry.
 6. **CIHBw pitch page** — site was in the middle of a relaunch; recheck in November 2026.
 7. **oeffentlichevergabe.de** — the national notice portal. Its Open Data API documentation needs a registration. service.bund.de partly covers the same notices.

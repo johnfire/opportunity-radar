@@ -1,7 +1,7 @@
 # Sources the radar cannot read. Format: name | url | why (German / English). Listed in every digest as a reminder.
 ZIM | https://www.zim.de | blockiert automatischen Zugriff; Antragsstopp seit Juli 2026 gemeldet / blocks automated access; an application stop was reported since July 2026
 Förderdatenbank | https://www.foerderdatenbank.de | CAPTCHA bei automatischen Suchen / CAPTCHA for automated searches
-DTVP | https://www.dtvp.de | braucht dein Konto (Registrierung offen) / needs your account (registration pending)
+DTVP | https://www.dtvp.de | registriert seit 20.10.2026; Anmeldung nur von Hand, der Radar kann nicht einloggen / registered since 2026-10-20; log in by hand, the radar cannot log in
 Projektträger Jülich | https://www.ptj.de | war am 11.10.2026 nicht erreichbar; erneut prüfen / was down on 2026-10-11; recheck
 CIHBw pitch page | https://www.cyberinnovationhub.de/en/innovation/your-pitch-for-the-cihbw | Seite im Umbau / site was mid-relaunch
 Prototype Fund | https://www.prototypefund.de/bewerbung | Bot-Schutz (JavaScript-Prüfung) blockiert den Radar; Bewerbung 1.10.–30.11.2026, 15:00 Uhr / bot protection (JavaScript check) blocks the radar; apply 1 Oct–30 Nov 2026, 15:00
