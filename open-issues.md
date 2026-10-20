@@ -8,7 +8,7 @@ Numbered so we can say "do 3". Remove an item when it is done and note it in the
 ## A. Submit-by dates (rule: send one week before the deadline)
 | Call | Deadline | Submit by | Status |
 |---|---|---|---|
-| SPRIND Next Frontier Robotics | Thu 22 Oct 2026, 18:00 | **Thu 15 Oct** (4 days away) | go / no-go not decided; team (Behzad, hardware) not settled |
+| SPRIND Next Frontier Robotics | Thu 22 Oct 2026, 18:00 | — | **SKIPPED 2026-10-20 (Chris).** Track 1 needs a working industrial-grade robot; no concrete component idea or hardware partner commitment in time. Requirements kept in `sprind-robotics-application.md`. |
 | SPRIND AI-Native Chip Design | Mon 30 Nov 2026, 11:00 CET | **Mon 23 Nov** | go / no-go not decided; Chris leans towards applying |
 | SPRIND Measuring with Entanglement | Mon 9 Nov 2026 | Mon 2 Nov | Chris has a physics background; not decided |
 
